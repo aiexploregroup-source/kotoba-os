@@ -1,0 +1,223 @@
+/* ---- Original Kotoba OS brand mark ---------------------------------- */
+.kb-mark {
+  display: block;
+  flex: none;
+  overflow: visible;
+}
+.kb-mark .kb-aura {
+  animation: kb-breathe 5s ease-in-out infinite;
+  transform-origin: 64px 56px;
+}
+.kb-mark .kb-spark {
+  animation: kb-twinkle 3.2s ease-in-out infinite;
+  transform-origin: 100px 94.6px;
+}
+.kb-mark.is-animated .kb-orbit-a {
+  transform-origin: 64px 64px;
+  animation: kb-spin 5.5s linear infinite;
+}
+.kb-mark.is-animated .kb-orbit-b {
+  transform-origin: 64px 64px;
+  animation: kb-spin-rev 8s linear infinite;
+}
+.kb-mark.is-animated .kb-glyph path {
+  stroke-dasharray: 100;
+  stroke-dashoffset: 100;
+  animation: kb-draw 0.55s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+.kb-mark.is-animated .kb-glyph path:nth-child(1) { animation-delay: 0.22s; }
+.kb-mark.is-animated .kb-glyph path:nth-child(2) { animation-delay: 0.36s; }
+.kb-mark.is-animated .kb-glyph path:nth-child(3) { animation-delay: 0.5s; }
+.kb-mark.is-animated .kb-glyph path:nth-child(4) { animation-delay: 0.64s; }
+.kb-mark.is-animated .kb-glyph path:nth-child(5) { animation-delay: 0.8s; }
+.kb-mark.is-animated .kb-spark {
+  animation: kb-twinkle 3.2s ease-in-out infinite;
+  animation-delay: 1.2s;
+}
+
+@keyframes kb-draw { to { stroke-dashoffset: 0; } }
+@keyframes kb-spin { to { transform: rotate(360deg); } }
+@keyframes kb-spin-rev { to { transform: rotate(-360deg); } }
+@keyframes kb-breathe {
+  0%, 100% { opacity: 0.7; transform: scale(0.96); }
+  50% { opacity: 1; transform: scale(1.05); }
+}
+@keyframes kb-twinkle {
+  0%, 100% { opacity: 0.35; transform: scale(0.75) rotate(0deg); }
+  50% { opacity: 1; transform: scale(1.15) rotate(45deg); }
+}
+
+/* ---- Pre-app intro animation ---------------------------------------- */
+.kb-intro {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  background:
+    radial-gradient(circle at 50% 42%, rgba(109, 40, 217, 0.22), transparent 46%),
+    radial-gradient(circle at 78% 78%, rgba(6, 182, 212, 0.14), transparent 42%),
+    #070910;
+  color: #e8eaf6;
+  transition: opacity 0.4s ease, transform 0.4s ease, visibility 0.4s;
+}
+.kb-intro.is-leaving {
+  opacity: 0;
+  transform: scale(1.06);
+  visibility: hidden;
+  pointer-events: none;
+}
+.kb-intro-grid {
+  position: absolute;
+  inset: -20%;
+  background-image:
+    linear-gradient(rgba(148, 163, 184, 0.055) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(148, 163, 184, 0.055) 1px, transparent 1px);
+  background-size: 52px 52px;
+  mask-image: radial-gradient(circle at 50% 46%, #000 0%, transparent 68%);
+  animation: kb-grid-drift 18s linear infinite;
+}
+.kb-intro-aura {
+  position: absolute;
+  width: 46vmax;
+  height: 46vmax;
+  border-radius: 50%;
+  filter: blur(90px);
+  opacity: 0.28;
+  pointer-events: none;
+}
+.kb-intro-aura-a {
+  background: #6d28d9;
+  top: -14vmax;
+  left: -10vmax;
+  animation: kb-aura-drift 12s ease-in-out infinite alternate;
+}
+.kb-intro-aura-b {
+  background: #0891b2;
+  bottom: -18vmax;
+  right: -12vmax;
+  animation: kb-aura-drift 14s ease-in-out infinite alternate-reverse;
+}
+.kb-intro-core {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 24px;
+}
+.kb-halo {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: 190px;
+  height: 190px;
+  margin-bottom: 26px;
+}
+.kb-halo-ring {
+  position: absolute;
+  border-radius: 50%;
+  border: 1px solid rgba(196, 181, 253, 0.35);
+  opacity: 0;
+  animation: kb-ring-out 2.1s cubic-bezier(0.16, 1, 0.3, 1) infinite;
+}
+.kb-halo-1 { animation-delay: 0.1s; }
+.kb-halo-2 { animation-delay: 0.55s; }
+.kb-halo-3 { animation-delay: 1s; }
+.kb-wordmark {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  opacity: 0;
+  animation: kb-rise 0.7s cubic-bezier(0.16, 1, 0.3, 1) 0.55s forwards;
+}
+.kb-wordmark-main {
+  font-size: clamp(38px, 7vw, 66px);
+  font-weight: 800;
+  letter-spacing: 0.2em;
+  line-height: 1;
+  background: linear-gradient(100deg, #ffffff 0%, #c4b5fd 46%, #67e8f9 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  text-shadow: 0 0 38px rgba(167, 139, 250, 0.28);
+}
+.kb-wordmark-os {
+  margin-top: 4px;
+  padding: 5px 9px;
+  border-radius: 8px;
+  border: 1px solid rgba(103, 232, 249, 0.4);
+  background: rgba(6, 182, 212, 0.1);
+  color: #a5f3fc;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+}
+.kb-tagline {
+  margin-top: 14px;
+  color: #94a3b8;
+  font-size: clamp(9px, 1.6vw, 12px);
+  font-weight: 600;
+  letter-spacing: 0.36em;
+  opacity: 0;
+  animation: kb-rise 0.7s ease 0.85s forwards;
+}
+.kb-load-track {
+  position: relative;
+  width: min(280px, 64vw);
+  height: 2px;
+  margin-top: 34px;
+  border-radius: 999px;
+  background: rgba(148, 163, 184, 0.16);
+  overflow: hidden;
+}
+.kb-load-fill {
+  position: absolute;
+  inset: 0;
+  transform-origin: left center;
+  transform: scaleX(0);
+  border-radius: inherit;
+  background: linear-gradient(90deg, #8b5cf6, #22d3ee);
+  box-shadow: 0 0 14px rgba(34, 211, 238, 0.6);
+  animation: kb-load 1.9s cubic-bezier(0.22, 1, 0.36, 1) 0.35s forwards;
+}
+.kb-footnote {
+  margin-top: 18px;
+  color: #64748b;
+  font-size: 9px;
+  font-weight: 600;
+  letter-spacing: 0.22em;
+  opacity: 0;
+  animation: kb-fade 0.8s ease 1.25s forwards;
+}
+.kb-skip {
+  position: absolute;
+  bottom: 26px;
+  color: #475569;
+  font-size: 10px;
+  letter-spacing: 0.16em;
+  opacity: 0;
+  animation: kb-fade 0.8s ease 1.5s forwards;
+}
+
+@keyframes kb-ring-out {
+  0% { transform: scale(0.46); opacity: 0; }
+  18% { opacity: 0.6; }
+  100% { transform: scale(1.55); opacity: 0; }
+}
+@keyframes kb-rise {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+@keyframes kb-fade { to { opacity: 1; } }
+@keyframes kb-load { to { transform: scaleX(1); } }
+@keyframes kb-grid-drift { to { transform: translate3d(52px, 52px, 0); } }
+@keyframes kb-aura-drift {
+  from { transform: translate(0, 0) scale(1); }
+  to { transform: translate(6vmax, 4vmax) scale(1.15); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .kb-mark *, .kb-intro * { animation-duration: 0.01ms !important; animation-iteration-count: 1 !important; }
+}

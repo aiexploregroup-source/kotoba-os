@@ -1,0 +1,1871 @@
+[
+  {
+    "char": "換",
+    "meaning": "interchange, period, change",
+    "radical": "手",
+    "level": "N2",
+    "strokes": 12
+  },
+  {
+    "char": "占",
+    "meaning": "fortune-telling, divining, forecasting",
+    "radical": "卜",
+    "level": "N2",
+    "strokes": 5
+  },
+  {
+    "char": "廃",
+    "meaning": "abolish, obsolete, cessation",
+    "radical": "广",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "江",
+    "meaning": "creek, inlet, bay",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "頼",
+    "meaning": "trust, request",
+    "radical": "頁",
+    "level": "N3",
+    "strokes": 16
+  },
+  {
+    "char": "僚",
+    "meaning": "colleague, official, companion",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "吉",
+    "meaning": "good luck, joy, congratulations",
+    "radical": "口",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "途",
+    "meaning": "route, way, road",
+    "radical": "辵",
+    "level": "N3",
+    "strokes": 10
+  },
+  {
+    "char": "踏",
+    "meaning": "step, trample, carry through",
+    "radical": "足",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "抜",
+    "meaning": "slip out, extract, pull out",
+    "radical": "手",
+    "level": "N3",
+    "strokes": 7
+  },
+  {
+    "char": "壊",
+    "meaning": "demolition, break, destroy",
+    "radical": "土",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "債",
+    "meaning": "bond, loan, debt",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "伸",
+    "meaning": "expand, stretch, extend",
+    "radical": "人",
+    "level": "N2",
+    "strokes": 7
+  },
+  {
+    "char": "爆",
+    "meaning": "bomb, burst open, pop",
+    "radical": "火",
+    "level": "N2",
+    "strokes": 19
+  },
+  {
+    "char": "儀",
+    "meaning": "ceremony, rule, affair",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "継",
+    "meaning": "inherit, succeed, continue",
+    "radical": "糸",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "狙",
+    "meaning": "aim at, sight, shadow",
+    "radical": "犬",
+    "level": "Jōyō",
+    "strokes": 8
+  },
+  {
+    "char": "闘",
+    "meaning": "fight, war",
+    "radical": "門",
+    "level": "N1",
+    "strokes": 18
+  },
+  {
+    "char": "葬",
+    "meaning": "interment, bury, shelve",
+    "radical": "艸",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "避",
+    "meaning": "evade, avoid, avert",
+    "radical": "辵",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "普",
+    "meaning": "universal, wide(ly), generally",
+    "radical": "日",
+    "level": "N2",
+    "strokes": 12
+  },
+  {
+    "char": "逮",
+    "meaning": "apprehend, chase",
+    "radical": "辵",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "婚",
+    "meaning": "marriage",
+    "radical": "女",
+    "level": "N3",
+    "strokes": 11
+  },
+  {
+    "char": "齢",
+    "meaning": "age",
+    "radical": "齒",
+    "level": "N2",
+    "strokes": 17
+  },
+  {
+    "char": "迫",
+    "meaning": "urge, force, imminent",
+    "radical": "辵",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "浮",
+    "meaning": "floating, float, rise to surface",
+    "radical": "水",
+    "level": "N3",
+    "strokes": 10
+  },
+  {
+    "char": "惑",
+    "meaning": "beguile, delusion, perplexity",
+    "radical": "心",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "崩",
+    "meaning": "crumble, die, demolish",
+    "radical": "山",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "聴",
+    "meaning": "listen, headstrong, naughty",
+    "radical": "耳",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "脱",
+    "meaning": "undress, removing, escape from",
+    "radical": "肉",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "押",
+    "meaning": "push, stop, check",
+    "radical": "手",
+    "level": "N3",
+    "strokes": 8
+  },
+  {
+    "char": "倒",
+    "meaning": "overthrow, fall, collapse",
+    "radical": "人",
+    "level": "N3",
+    "strokes": 10
+  },
+  {
+    "char": "了",
+    "meaning": "complete, finish",
+    "radical": "亅",
+    "level": "N2",
+    "strokes": 2
+  },
+  {
+    "char": "患",
+    "meaning": "afflicted, disease, suffer from",
+    "radical": "心",
+    "level": "N2",
+    "strokes": 11
+  },
+  {
+    "char": "締",
+    "meaning": "tighten, tie, shut",
+    "radical": "糸",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "執",
+    "meaning": "tenacious, take hold, grasp",
+    "radical": "土",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "絡",
+    "meaning": "entwine, coil around, get caught in",
+    "radical": "糸",
+    "level": "N2",
+    "strokes": 12
+  },
+  {
+    "char": "房",
+    "meaning": "tassel, tuft, fringe",
+    "radical": "户",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "募",
+    "meaning": "recruit, campaign, gather (contributions)",
+    "radical": "力",
+    "level": "N2",
+    "strokes": 12
+  },
+  {
+    "char": "撤",
+    "meaning": "remove, withdraw, disarm",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "払",
+    "meaning": "pay, clear out, prune",
+    "radical": "手",
+    "level": "N3",
+    "strokes": 5
+  },
+  {
+    "char": "削",
+    "meaning": "plane, sharpen, whittle",
+    "radical": "刀",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "措",
+    "meaning": "set aside, give up, suspend",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "載",
+    "meaning": "ride, board, get on",
+    "radical": "車",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "昇",
+    "meaning": "rise up",
+    "radical": "日",
+    "level": "N2",
+    "strokes": 8
+  },
+  {
+    "char": "陣",
+    "meaning": "camp, battle array, ranks",
+    "radical": "阜",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "為",
+    "meaning": "do, change, make",
+    "radical": "火",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "遅",
+    "meaning": "slow, late, back",
+    "radical": "辵",
+    "level": "N3",
+    "strokes": 12
+  },
+  {
+    "char": "抑",
+    "meaning": "repress, well, now",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "奈",
+    "meaning": "nara, what?",
+    "radical": "大",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "択",
+    "meaning": "choose, select, elect",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "秀",
+    "meaning": "excel, excellence, beauty",
+    "radical": "禾",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "徴",
+    "meaning": "indications, sign, omen",
+    "radical": "彳",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "弾",
+    "meaning": "bullet, twang, flip",
+    "radical": "弓",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "償",
+    "meaning": "reparation, make up for, recompense",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "拠",
+    "meaning": "foothold, based on, follow",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "香",
+    "meaning": "incense, smell, perfume",
+    "radical": "香",
+    "level": "N2",
+    "strokes": 9
+  },
+  {
+    "char": "更",
+    "meaning": "grow late, night watch, sit up late",
+    "radical": "曰",
+    "level": "N3",
+    "strokes": 7
+  },
+  {
+    "char": "拒",
+    "meaning": "repel, refuse, reject",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "刑",
+    "meaning": "punish, penalty, sentence",
+    "radical": "刀",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "塚",
+    "meaning": "hillock, mound",
+    "radical": "土",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "致",
+    "meaning": "doth, do, send",
+    "radical": "至",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "抱",
+    "meaning": "embrace, hug, hold in arms",
+    "radical": "手",
+    "level": "N3",
+    "strokes": 8
+  },
+  {
+    "char": "繰",
+    "meaning": "winding, reel, spin",
+    "radical": "糸",
+    "level": "N1",
+    "strokes": 19
+  },
+  {
+    "char": "尾",
+    "meaning": "tail, end, counter for fish",
+    "radical": "尸",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "描",
+    "meaning": "sketch, compose, write",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "恐",
+    "meaning": "fear, dread, awe",
+    "radical": "心",
+    "level": "N3",
+    "strokes": 10
+  },
+  {
+    "char": "鈴",
+    "meaning": "small bell, buzzer",
+    "radical": "金",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "盤",
+    "meaning": "tray, shallow bowl, platter",
+    "radical": "皿",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "項",
+    "meaning": "paragraph, nape of neck, clause",
+    "radical": "頁",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "喪",
+    "meaning": "miss, mourning",
+    "radical": "口",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "伴",
+    "meaning": "consort, accompany, bring with",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "懸",
+    "meaning": "state of suspension, hang, depend",
+    "radical": "心",
+    "level": "N1",
+    "strokes": 20
+  },
+  {
+    "char": "戻",
+    "meaning": "re-, return, revert",
+    "radical": "户",
+    "level": "N3",
+    "strokes": 7
+  },
+  {
+    "char": "巨",
+    "meaning": "gigantic, big, large",
+    "radical": "工",
+    "level": "N2",
+    "strokes": 5
+  },
+  {
+    "char": "震",
+    "meaning": "quake, shake, tremble",
+    "radical": "雨",
+    "level": "N2",
+    "strokes": 15
+  },
+  {
+    "char": "越",
+    "meaning": "surpass, cross over, move to",
+    "radical": "走",
+    "level": "N3",
+    "strokes": 12
+  },
+  {
+    "char": "契",
+    "meaning": "pledge, promise, vow",
+    "radical": "大",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "掲",
+    "meaning": "put up (a notice), put up, hoist",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "躍",
+    "meaning": "leap, dance, skip",
+    "radical": "足",
+    "level": "N1",
+    "strokes": 21
+  },
+  {
+    "char": "棄",
+    "meaning": "abandon, throw away, discard",
+    "radical": "木",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "触",
+    "meaning": "contact, touch, feel",
+    "radical": "角",
+    "level": "N2",
+    "strokes": 13
+  },
+  {
+    "char": "邸",
+    "meaning": "residence, mansion",
+    "radical": "邑",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "依",
+    "meaning": "reliant, depend on, consequently",
+    "radical": "人",
+    "level": "N2",
+    "strokes": 8
+  },
+  {
+    "char": "籍",
+    "meaning": "enroll, domiciliary register, membership",
+    "radical": "竹",
+    "level": "N2",
+    "strokes": 20
+  },
+  {
+    "char": "汚",
+    "meaning": "dirty, pollute, disgrace",
+    "radical": "水",
+    "level": "N2",
+    "strokes": 6
+  },
+  {
+    "char": "還",
+    "meaning": "send back, return",
+    "radical": "辵",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "互",
+    "meaning": "mutually, reciprocally, together",
+    "radical": "二",
+    "level": "N3",
+    "strokes": 4
+  },
+  {
+    "char": "慮",
+    "meaning": "prudence, thought, concern",
+    "radical": "心",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "枠",
+    "meaning": "frame, framework, spindle",
+    "radical": "木",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "恵",
+    "meaning": "favor, blessing, grace",
+    "radical": "心",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "露",
+    "meaning": "dew, tears, expose",
+    "radical": "雨",
+    "level": "N1",
+    "strokes": 21
+  },
+  {
+    "char": "沖",
+    "meaning": "open sea, offing, rise high into sky",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "逃",
+    "meaning": "escape, flee, shirk",
+    "radical": "辵",
+    "level": "N3",
+    "strokes": 9
+  },
+  {
+    "char": "緩",
+    "meaning": "slacken, loosen, relax",
+    "radical": "糸",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "需",
+    "meaning": "demand, request, need",
+    "radical": "雨",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "傾",
+    "meaning": "lean, incline, tilt",
+    "radical": "人",
+    "level": "N2",
+    "strokes": 13
+  },
+  {
+    "char": "購",
+    "meaning": "subscription, buy",
+    "radical": "貝",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "充",
+    "meaning": "allot, fill",
+    "radical": "儿",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "緒",
+    "meaning": "thong, beginning, inception",
+    "radical": "糸",
+    "level": "N3",
+    "strokes": 14
+  },
+  {
+    "char": "跡",
+    "meaning": "tracks, mark, print",
+    "radical": "足",
+    "level": "N2",
+    "strokes": 13
+  },
+  {
+    "char": "駐",
+    "meaning": "stop-over, reside in, resident",
+    "radical": "馬",
+    "level": "N2",
+    "strokes": 15
+  },
+  {
+    "char": "貢",
+    "meaning": "tribute, support, finance",
+    "radical": "貝",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "鹿",
+    "meaning": "deer",
+    "radical": "鹿",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "却",
+    "meaning": "instead, on the contrary, rather",
+    "radical": "卩",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "端",
+    "meaning": "edge, origin, end",
+    "radical": "立",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "紹",
+    "meaning": "introduce, inherit, help",
+    "radical": "糸",
+    "level": "N2",
+    "strokes": 11
+  },
+  {
+    "char": "獲",
+    "meaning": "seize, get, find",
+    "radical": "犬",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "併",
+    "meaning": "join, get together, unite",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "徹",
+    "meaning": "penetrate, clear, pierce",
+    "radical": "彳",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "埼",
+    "meaning": "cape, spit, promontory",
+    "radical": "土",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "衝",
+    "meaning": "collide, brunt, highway",
+    "radical": "行",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "焦",
+    "meaning": "char, hurry, impatient",
+    "radical": "火",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "奪",
+    "meaning": "rob, take by force, snatch away",
+    "radical": "大",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "雇",
+    "meaning": "employ, hire",
+    "radical": "隹",
+    "level": "N2",
+    "strokes": 12
+  },
+  {
+    "char": "浦",
+    "meaning": "bay, creek, inlet",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "替",
+    "meaning": "exchange, spare, substitute",
+    "radical": "曰",
+    "level": "N2",
+    "strokes": 12
+  },
+  {
+    "char": "析",
+    "meaning": "chop, divide, tear",
+    "radical": "木",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "譲",
+    "meaning": "defer, turnover, transfer",
+    "radical": "言",
+    "level": "N1",
+    "strokes": 20
+  },
+  {
+    "char": "称",
+    "meaning": "appellation, praise, admire",
+    "radical": "禾",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "挑",
+    "meaning": "challenge, contend for, make love to",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "誘",
+    "meaning": "entice, lead, tempt",
+    "radical": "言",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "紛",
+    "meaning": "distract, be mistaken for, go astray",
+    "radical": "糸",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "促",
+    "meaning": "stimulate, urge, press",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "慎",
+    "meaning": "humility, be careful, discreet",
+    "radical": "心",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "控",
+    "meaning": "withdraw, draw in, hold back",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "贈",
+    "meaning": "presents, send, give to",
+    "radical": "貝",
+    "level": "N2",
+    "strokes": 18
+  },
+  {
+    "char": "握",
+    "meaning": "grip, hold, mould sushi",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "俊",
+    "meaning": "sagacious, genius, excellence",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "薄",
+    "meaning": "dilute, thin, weak (tea)",
+    "radical": "艸",
+    "level": "N2",
+    "strokes": 16
+  },
+  {
+    "char": "渋",
+    "meaning": "astringent, hesitate, reluctant",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "銃",
+    "meaning": "gun, arms",
+    "radical": "金",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "携",
+    "meaning": "portable, carry (in hand), armed with",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "奥",
+    "meaning": "heart, interior",
+    "radical": "大",
+    "level": "N2",
+    "strokes": 12
+  },
+  {
+    "char": "診",
+    "meaning": "checkup, seeing, diagnose",
+    "radical": "言",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "詰",
+    "meaning": "packed, close, pressed",
+    "radical": "言",
+    "level": "N2",
+    "strokes": 13
+  },
+  {
+    "char": "託",
+    "meaning": "consign, requesting, entrusting with",
+    "radical": "言",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "撮",
+    "meaning": "snapshot, take pictures",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "侵",
+    "meaning": "encroach, invade, raid",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "括",
+    "meaning": "fasten, tie up, arrest",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "掛",
+    "meaning": "hang, suspend, depend",
+    "radical": "手",
+    "level": "N3",
+    "strokes": 11
+  },
+  {
+    "char": "双",
+    "meaning": "pair, set, comparison",
+    "radical": "又",
+    "level": "N2",
+    "strokes": 4
+  },
+  {
+    "char": "刺",
+    "meaning": "thorn, pierce, stab",
+    "radical": "刀",
+    "level": "N2",
+    "strokes": 8
+  },
+  {
+    "char": "到",
+    "meaning": "arrival, proceed, reach",
+    "radical": "刀",
+    "level": "N3",
+    "strokes": 8
+  },
+  {
+    "char": "駆",
+    "meaning": "drive, run, gallop",
+    "radical": "馬",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "寝",
+    "meaning": "lie down, sleep, rest",
+    "radical": "宀",
+    "level": "N3",
+    "strokes": 13
+  },
+  {
+    "char": "透",
+    "meaning": "transparent, permeate, filter",
+    "radical": "辵",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "津",
+    "meaning": "haven, port, harbor",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "壁",
+    "meaning": "wall, lining (stomach), fence",
+    "radical": "土",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "稲",
+    "meaning": "rice plant",
+    "radical": "禾",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "裂",
+    "meaning": "split, rend, tear",
+    "radical": "衣",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "敏",
+    "meaning": "cleverness, agile, alert",
+    "radical": "攴",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "是",
+    "meaning": "just so, this, right",
+    "radical": "日",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "排",
+    "meaning": "repudiate, exclude, expel",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "裕",
+    "meaning": "abundant, rich, fertile",
+    "radical": "衣",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "堅",
+    "meaning": "strict, hard, solid",
+    "radical": "土",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "盗",
+    "meaning": "steal, rob, pilfer",
+    "radical": "皿",
+    "level": "N3",
+    "strokes": 11
+  },
+  {
+    "char": "芝",
+    "meaning": "turf, lawn",
+    "radical": "艸",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "綱",
+    "meaning": "hawser, class (genus), rope",
+    "radical": "糸",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "扱",
+    "meaning": "handle, entertain, thresh",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "顧",
+    "meaning": "look back, review, examine oneself",
+    "radical": "頁",
+    "level": "N1",
+    "strokes": 21
+  },
+  {
+    "char": "訟",
+    "meaning": "sue, accuse",
+    "radical": "言",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "戒",
+    "meaning": "commandment",
+    "radical": "戈",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "祉",
+    "meaning": "welfare, happiness",
+    "radical": "示",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "誉",
+    "meaning": "reputation, praise, honor",
+    "radical": "言",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "歓",
+    "meaning": "delight, joy",
+    "radical": "欠",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "勧",
+    "meaning": "persuade, recommend, advise",
+    "radical": "力",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "騒",
+    "meaning": "boisterous, make noise, clamor",
+    "radical": "馬",
+    "level": "N1",
+    "strokes": 18
+  },
+  {
+    "char": "閥",
+    "meaning": "clique, lineage, pedigree",
+    "radical": "門",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "甲",
+    "meaning": "armor, high (voice), a grade",
+    "radical": "田",
+    "level": "N1",
+    "strokes": 5
+  },
+  {
+    "char": "縄",
+    "meaning": "straw rope, cord",
+    "radical": "糸",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "揺",
+    "meaning": "swing, shake, sway",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "免",
+    "meaning": "excuse, dismissal",
+    "radical": "儿",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "既",
+    "meaning": "previously, already, long ago",
+    "radical": "无",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "薦",
+    "meaning": "recommend, mat, advise",
+    "radical": "艸",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "隣",
+    "meaning": "neighboring",
+    "radical": "阜",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "悩",
+    "meaning": "trouble, worry, in pain",
+    "radical": "心",
+    "level": "N2",
+    "strokes": 10
+  },
+  {
+    "char": "華",
+    "meaning": "splendor, flower, petal",
+    "radical": "艸",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "御",
+    "meaning": "honorable, manipulate, govern",
+    "radical": "彳",
+    "level": "N3",
+    "strokes": 12
+  },
+  {
+    "char": "範",
+    "meaning": "pattern, example, model",
+    "radical": "竹",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "隠",
+    "meaning": "conceal, hide, cover",
+    "radical": "阜",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "哲",
+    "meaning": "philosophy, clear",
+    "radical": "口",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "杉",
+    "meaning": "cedar, cryptomeria",
+    "radical": "木",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "釈",
+    "meaning": "explanation",
+    "radical": "采",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "荒",
+    "meaning": "laid waste, rough, rude",
+    "radical": "艸",
+    "level": "N2",
+    "strokes": 9
+  },
+  {
+    "char": "硬",
+    "meaning": "stiff, hard",
+    "radical": "石",
+    "level": "N2",
+    "strokes": 12
+  },
+  {
+    "char": "妥",
+    "meaning": "gentle, peace, depravity",
+    "radical": "女",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "威",
+    "meaning": "intimidate, dignity, majesty",
+    "radical": "女",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "豪",
+    "meaning": "overpowering, great, powerful",
+    "radical": "豕",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "熊",
+    "meaning": "bear",
+    "radical": "火",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "滞",
+    "meaning": "stagnate, be delayed, overdue",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "微",
+    "meaning": "delicate, minuteness, insignificance",
+    "radical": "彳",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "隆",
+    "meaning": "hump, high, noble",
+    "radical": "阜",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "埋",
+    "meaning": "bury, be filled up, embedded",
+    "radical": "土",
+    "level": "N2",
+    "strokes": 10
+  },
+  {
+    "char": "症",
+    "meaning": "symptoms, illness",
+    "radical": "疒",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "暫",
+    "meaning": "temporarily, a while, moment",
+    "radical": "日",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "肝",
+    "meaning": "liver, pluck, nerve",
+    "radical": "肉",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "喚",
+    "meaning": "yell, cry, call",
+    "radical": "口",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "妙",
+    "meaning": "exquisite, strange, queer",
+    "radical": "女",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "袋",
+    "meaning": "sack, bag, pouch",
+    "radical": "衣",
+    "level": "N2",
+    "strokes": 11
+  },
+  {
+    "char": "索",
+    "meaning": "cord, rope, searching",
+    "radical": "糸",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "襲",
+    "meaning": "attack, advance on, succeed to",
+    "radical": "衣",
+    "level": "N1",
+    "strokes": 22
+  },
+  {
+    "char": "吹",
+    "meaning": "blow, breathe, puff",
+    "radical": "口",
+    "level": "N3",
+    "strokes": 7
+  },
+  {
+    "char": "懇",
+    "meaning": "sociable, kind, courteous",
+    "radical": "心",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "柄",
+    "meaning": "design, pattern, build",
+    "radical": "木",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "驚",
+    "meaning": "wonder, be surprised, frightened",
+    "radical": "馬",
+    "level": "N1",
+    "strokes": 22
+  },
+  {
+    "char": "麻",
+    "meaning": "hemp, flax, numb",
+    "radical": "麻",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "封",
+    "meaning": "seal, closing",
+    "radical": "寸",
+    "level": "N2",
+    "strokes": 9
+  },
+  {
+    "char": "娘",
+    "meaning": "daughter, girl",
+    "radical": "女",
+    "level": "N3",
+    "strokes": 10
+  },
+  {
+    "char": "剤",
+    "meaning": "dose, medicine, drug",
+    "radical": "刀",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "瀬",
+    "meaning": "rapids, current, torrent",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 19
+  },
+  {
+    "char": "趣",
+    "meaning": "purport, gist, elegance",
+    "radical": "走",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "陥",
+    "meaning": "collapse, fall into, cave in",
+    "radical": "阜",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "斎",
+    "meaning": "purification, buddhist food, room",
+    "radical": "文",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "貫",
+    "meaning": "pierce, 8 1/3lbs, penetrate",
+    "radical": "貝",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "仙",
+    "meaning": "hermit, wizard, cent",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 5
+  },
+  {
+    "char": "慰",
+    "meaning": "consolation, amusement, seduce",
+    "radical": "心",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "賢",
+    "meaning": "intelligent, wise, wisdom",
+    "radical": "貝",
+    "level": "N2",
+    "strokes": 16
+  },
+  {
+    "char": "旬",
+    "meaning": "decameron, ten-day period, season (for specific products)",
+    "radical": "日",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "腕",
+    "meaning": "arm, ability, talent",
+    "radical": "肉",
+    "level": "N2",
+    "strokes": 12
+  },
+  {
+    "char": "兼",
+    "meaning": "concurrently, and, beforehand",
+    "radical": "八",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "旨",
+    "meaning": "delicious, relish, show a liking for",
+    "radical": "日",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "即",
+    "meaning": "instant, namely, as is",
+    "radical": "卩",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "柳",
+    "meaning": "willow",
+    "radical": "木",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "偽",
+    "meaning": "falsehood, lie, deceive",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "較",
+    "meaning": "contrast, compare",
+    "radical": "車",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "覇",
+    "meaning": "hegemony, supremacy, leadership",
+    "radical": "襾",
+    "level": "N1",
+    "strokes": 19
+  },
+  {
+    "char": "床",
+    "meaning": "bed, counter for beds, floor",
+    "radical": "广",
+    "level": "N2",
+    "strokes": 7
+  },
+  {
+    "char": "詳",
+    "meaning": "detailed, full, minute",
+    "radical": "言",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "抵",
+    "meaning": "resist, reach, touch",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "脅",
+    "meaning": "threaten, coerce",
+    "radical": "肉",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "柔",
+    "meaning": "tender, weakness, gentleness",
+    "radical": "木",
+    "level": "N2",
+    "strokes": 9
+  },
+  {
+    "char": "茂",
+    "meaning": "overgrown, grow thick, be luxuriant",
+    "radical": "艸",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "犠",
+    "meaning": "sacrifice",
+    "radical": "牛",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "距",
+    "meaning": "long-distance, spur, fetlock",
+    "radical": "足",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "雅",
+    "meaning": "gracious, elegant, graceful",
+    "radical": "隹",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "飾",
+    "meaning": "decorate, ornament, adorn",
+    "radical": "食",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "網",
+    "meaning": "netting, network",
+    "radical": "糸",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "竜",
+    "meaning": "dragon, imperial",
+    "radical": "立",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "繁",
+    "meaning": "luxuriant, thick, overgrown",
+    "radical": "糸",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "殿",
+    "meaning": "mr., hall, mansion",
+    "radical": "殳",
+    "level": "N2",
+    "strokes": 13
+  },
+  {
+    "char": "濃",
+    "meaning": "concentrated, thick, dark",
+    "radical": "水",
+    "level": "N2",
+    "strokes": 16
+  },
+  {
+    "char": "翼",
+    "meaning": "wing, plane, flank",
+    "radical": "羽",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "茨",
+    "meaning": "briar, thorn",
+    "radical": "艸",
+    "level": "Jōyō",
+    "strokes": 9
+  },
+  {
+    "char": "潟",
+    "meaning": "lagoon",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "魅",
+    "meaning": "fascination, charm, bewitch",
+    "radical": "鬼",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "嫌",
+    "meaning": "dislike, detest, hate",
+    "radical": "女",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "斉",
+    "meaning": "adjusted, alike, equal",
+    "radical": "文",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "敷",
+    "meaning": "spread, pave, sit",
+    "radical": "攴",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "擁",
+    "meaning": "hug, embrace, possess",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "肩",
+    "meaning": "shoulder",
+    "radical": "肉",
+    "level": "N2",
+    "strokes": 8
+  },
+  {
+    "char": "圏",
+    "meaning": "sphere, circle, radius",
+    "radical": "囗",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "零",
+    "meaning": "zero, spill, overflow",
+    "radical": "雨",
+    "level": "N2",
+    "strokes": 13
+  },
+  {
+    "char": "罰",
+    "meaning": "penalty, punishment",
+    "radical": "网",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "怒",
+    "meaning": "angry, be offended",
+    "radical": "心",
+    "level": "N3",
+    "strokes": 9
+  },
+  {
+    "char": "滅",
+    "meaning": "destroy, ruin, overthrow",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "礎",
+    "meaning": "cornerstone, foundation stone",
+    "radical": "石",
+    "level": "N1",
+    "strokes": 18
+  },
+  {
+    "char": "腐",
+    "meaning": "rot, decay, sour",
+    "radical": "肉",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "脚",
+    "meaning": "skids, leg, undercarriage",
+    "radical": "肉",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "泊",
+    "meaning": "overnight stay, put up at, ride at anchor",
+    "radical": "水",
+    "level": "N2",
+    "strokes": 8
+  },
+  {
+    "char": "尽",
+    "meaning": "exhaust, use up, run out of",
+    "radical": "尸",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "杯",
+    "meaning": "counter for cupfuls, wine glass, glass",
+    "radical": "木",
+    "level": "N3",
+    "strokes": 8
+  },
+  {
+    "char": "僕",
+    "meaning": "me, i (male), servant",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "滑",
+    "meaning": "slippery, slide, slip",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "孤",
+    "meaning": "orphan, alone",
+    "radical": "子",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "炎",
+    "meaning": "inflammation, flame, blaze",
+    "radical": "火",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "賠",
+    "meaning": "compensation, indemnify",
+    "radical": "貝",
+    "level": "N1",
+    "strokes": 15
+  }
+]

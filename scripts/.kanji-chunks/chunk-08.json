@@ -1,0 +1,1871 @@
+[
+  {
+    "char": "唇",
+    "meaning": "lips",
+    "radical": "口",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "睦",
+    "meaning": "intimate, friendly, harmonious",
+    "radical": "目",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "閑",
+    "meaning": "leisure",
+    "radical": "門",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "幽",
+    "meaning": "seclude, confine to a room, deep",
+    "radical": "幺",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "曹",
+    "meaning": "office, official, comrade",
+    "radical": "曰",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "詠",
+    "meaning": "recitation, poem, song",
+    "radical": "言",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "卑",
+    "meaning": "lowly, base, vile",
+    "radical": "十",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "侮",
+    "meaning": "scorn, despise, make light of",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "鋳",
+    "meaning": "casting, mint",
+    "radical": "金",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "抹",
+    "meaning": "rub, paint, erase",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "尉",
+    "meaning": "military officer, jailer, old man",
+    "radical": "寸",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "隷",
+    "meaning": "slave, servant, prisoner",
+    "radical": "隶",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "禍",
+    "meaning": "calamity, misfortune, evil",
+    "radical": "示",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "酪",
+    "meaning": "dairy products, whey, broth",
+    "radical": "酉",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "茎",
+    "meaning": "stalk, stem",
+    "radical": "艸",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "汎",
+    "meaning": "pan-",
+    "radical": "水",
+    "level": "Jōyō",
+    "strokes": 6
+  },
+  {
+    "char": "頃",
+    "meaning": "time, about, toward",
+    "radical": "頁",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "帥",
+    "meaning": "commander, leading troops, governor",
+    "radical": "巾",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "逝",
+    "meaning": "departed, die",
+    "radical": "辵",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "滴",
+    "meaning": "drip, drop",
+    "radical": "水",
+    "level": "N2",
+    "strokes": 14
+  },
+  {
+    "char": "謎",
+    "meaning": "riddle, puzzle, enigma",
+    "radical": "言",
+    "level": "Jōyō",
+    "strokes": 16
+  },
+  {
+    "char": "匿",
+    "meaning": "hide, shelter, shield",
+    "radical": "匸",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "爪",
+    "meaning": "claw, nail, talon",
+    "radical": "爪",
+    "level": "Jōyō",
+    "strokes": 4
+  },
+  {
+    "char": "鍵",
+    "meaning": "key",
+    "radical": "金",
+    "level": "Jōyō",
+    "strokes": 17
+  },
+  {
+    "char": "襟",
+    "meaning": "collar, neck, lapel",
+    "radical": "衣",
+    "level": "N1",
+    "strokes": 18
+  },
+  {
+    "char": "蛍",
+    "meaning": "lightning-bug, firefly",
+    "radical": "虫",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "寡",
+    "meaning": "widow, minority, few",
+    "radical": "宀",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "痢",
+    "meaning": "diarrhea",
+    "radical": "疒",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "庸",
+    "meaning": "commonplace, ordinary, employment",
+    "radical": "广",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "坑",
+    "meaning": "pit, hole",
+    "radical": "土",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "藍",
+    "meaning": "indigo",
+    "radical": "艸",
+    "level": "N1",
+    "strokes": 18
+  },
+  {
+    "char": "賊",
+    "meaning": "burglar, rebel, traitor",
+    "radical": "貝",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "搾",
+    "meaning": "squeeze",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "臼",
+    "meaning": "mortar",
+    "radical": "臼",
+    "level": "Jōyō",
+    "strokes": 6
+  },
+  {
+    "char": "畔",
+    "meaning": "paddy ridge, levee",
+    "radical": "田",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "唄",
+    "meaning": "song, ballad",
+    "radical": "口",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "孔",
+    "meaning": "cavity, hole, slit",
+    "radical": "子",
+    "level": "N1",
+    "strokes": 4
+  },
+  {
+    "char": "呂",
+    "meaning": "spine, backbone",
+    "radical": "口",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "拷",
+    "meaning": "torture, beat",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "嬢",
+    "meaning": "lass, girl, miss",
+    "radical": "女",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "渓",
+    "meaning": "mountain stream, valley",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "翁",
+    "meaning": "venerable old man",
+    "radical": "羽",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "廉",
+    "meaning": "bargain, reason, charge",
+    "radical": "广",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "牙",
+    "meaning": "tusk, fang",
+    "radical": "牙",
+    "level": "Jōyō",
+    "strokes": 5
+  },
+  {
+    "char": "謹",
+    "meaning": "discreet, reverently, humbly",
+    "radical": "言",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "瞳",
+    "meaning": "pupil (of eye)",
+    "radical": "目",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "湧",
+    "meaning": "boil, ferment, seethe",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "窯",
+    "meaning": "kiln, oven, furnace",
+    "radical": "穴",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "褒",
+    "meaning": "praise, extol",
+    "radical": "衣",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "醜",
+    "meaning": "ugly, unclean, shame",
+    "radical": "酉",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "升",
+    "meaning": "measuring box, 1.8 liter",
+    "radical": "十",
+    "level": "N1",
+    "strokes": 4
+  },
+  {
+    "char": "殉",
+    "meaning": "martyrdom, follow by resigning",
+    "radical": "歹",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "煩",
+    "meaning": "anxiety, trouble, worry",
+    "radical": "火",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "枕",
+    "meaning": "pillow",
+    "radical": "木",
+    "level": "Jōyō",
+    "strokes": 8
+  },
+  {
+    "char": "劾",
+    "meaning": "censure, criminal investigation",
+    "radical": "力",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "堕",
+    "meaning": "degenerate, descend to, lapse into",
+    "radical": "土",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "丼",
+    "meaning": "bowl, bowl of food",
+    "radical": "丶",
+    "level": "Jōyō",
+    "strokes": 5
+  },
+  {
+    "char": "租",
+    "meaning": "tariff, crop tax, borrowing",
+    "radical": "禾",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "桟",
+    "meaning": "scaffold, cleat, frame",
+    "radical": "木",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "惧",
+    "meaning": "fear, be afraid of, dread",
+    "radical": "心",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "婿",
+    "meaning": "bridegroom, son-in-law",
+    "radical": "女",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "慕",
+    "meaning": "pining, yearn for, love dearly",
+    "radical": "心",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "罷",
+    "meaning": "quit, stop, leave",
+    "radical": "网",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "矯",
+    "meaning": "rectify, straighten, correct",
+    "radical": "矢",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "某",
+    "meaning": "so-and-so, one, a certain",
+    "radical": "木",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "囚",
+    "meaning": "captured, criminal, arrest",
+    "radical": "囗",
+    "level": "N1",
+    "strokes": 5
+  },
+  {
+    "char": "虹",
+    "meaning": "rainbow",
+    "radical": "虫",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "泌",
+    "meaning": "ooze, flow, soak in",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "漸",
+    "meaning": "steadily, gradually advancing, finally",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "膳",
+    "meaning": "small low table, tray",
+    "radical": "肉",
+    "level": "Jōyō",
+    "strokes": 16
+  },
+  {
+    "char": "蚊",
+    "meaning": "mosquito",
+    "radical": "虫",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "厄",
+    "meaning": "unlucky, misfortune, bad luck",
+    "radical": "厂",
+    "level": "N1",
+    "strokes": 4
+  },
+  {
+    "char": "藻",
+    "meaning": "seaweed, duckweed",
+    "radical": "艸",
+    "level": "N1",
+    "strokes": 19
+  },
+  {
+    "char": "嫡",
+    "meaning": "legitimate wife, direct descent (non-bastard)",
+    "radical": "女",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "呪",
+    "meaning": "spell, curse, charm",
+    "radical": "口",
+    "level": "Jōyō",
+    "strokes": 8
+  },
+  {
+    "char": "斬",
+    "meaning": "beheading, kill, murder",
+    "radical": "斤",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "怨",
+    "meaning": "grudge, show resentment, be jealous",
+    "radical": "心",
+    "level": "Jōyō",
+    "strokes": 9
+  },
+  {
+    "char": "串",
+    "meaning": "spit, skewer",
+    "radical": "丨",
+    "level": "Jōyō",
+    "strokes": 7
+  },
+  {
+    "char": "嚇",
+    "meaning": "menacing, dignity, majesty",
+    "radical": "口",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "凸",
+    "meaning": "convex, beetle brow, uneven",
+    "radical": "凵",
+    "level": "N1",
+    "strokes": 5
+  },
+  {
+    "char": "腫",
+    "meaning": "tumor, swelling",
+    "radical": "肉",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "韻",
+    "meaning": "rhyme, elegance, tone",
+    "radical": "音",
+    "level": "N1",
+    "strokes": 19
+  },
+  {
+    "char": "霜",
+    "meaning": "frost",
+    "radical": "雨",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "餅",
+    "meaning": "mochi rice cake",
+    "radical": "食",
+    "level": "Jōyō",
+    "strokes": 14
+  },
+  {
+    "char": "硝",
+    "meaning": "nitrate, saltpeter",
+    "radical": "石",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "箸",
+    "meaning": "chopsticks",
+    "radical": "竹",
+    "level": "Jōyō",
+    "strokes": 15
+  },
+  {
+    "char": "勅",
+    "meaning": "imperial order",
+    "radical": "力",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "棺",
+    "meaning": "coffin, casket",
+    "radical": "木",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "儒",
+    "meaning": "confucian",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "斑",
+    "meaning": "spot, blemish, speck",
+    "radical": "文",
+    "level": "Jōyō",
+    "strokes": 12
+  },
+  {
+    "char": "摯",
+    "meaning": "gift, seriousness",
+    "radical": "手",
+    "level": "Jōyō",
+    "strokes": 15
+  },
+  {
+    "char": "愁",
+    "meaning": "distress, grieve, lament",
+    "radical": "心",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "楼",
+    "meaning": "watchtower, lookout, high building",
+    "radical": "木",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "眉",
+    "meaning": "eyebrow",
+    "radical": "目",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "薪",
+    "meaning": "fuel, firewood, kindling",
+    "radical": "艸",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "堆",
+    "meaning": "piled high",
+    "radical": "土",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "褐",
+    "meaning": "brown, woollen kimono",
+    "radical": "衣",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "賜",
+    "meaning": "grant, gift, boon",
+    "radical": "貝",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "繕",
+    "meaning": "darning, repair, mend",
+    "radical": "糸",
+    "level": "N1",
+    "strokes": 18
+  },
+  {
+    "char": "栓",
+    "meaning": "plug, bolt, cork",
+    "radical": "木",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "芯",
+    "meaning": "wick",
+    "radical": "艸",
+    "level": "Jōyō",
+    "strokes": 7
+  },
+  {
+    "char": "蜜",
+    "meaning": "honey, nectar, molasses",
+    "radical": "虫",
+    "level": "Jōyō",
+    "strokes": 14
+  },
+  {
+    "char": "凹",
+    "meaning": "concave, hollow, sunken",
+    "radical": "凵",
+    "level": "N1",
+    "strokes": 5
+  },
+  {
+    "char": "艶",
+    "meaning": "glossy, luster, glaze",
+    "radical": "色",
+    "level": "N1",
+    "strokes": 19
+  },
+  {
+    "char": "伺",
+    "meaning": "pay respects, visit, ask",
+    "radical": "人",
+    "level": "N2",
+    "strokes": 7
+  },
+  {
+    "char": "股",
+    "meaning": "thigh, crotch",
+    "radical": "肉",
+    "level": "Jōyō",
+    "strokes": 8
+  },
+  {
+    "char": "匂",
+    "meaning": "fragrant, stink, glow",
+    "radical": "勹",
+    "level": "Jōyō",
+    "strokes": 4
+  },
+  {
+    "char": "玩",
+    "meaning": "play, take pleasure in, trifle with",
+    "radical": "玉",
+    "level": "Jōyō",
+    "strokes": 8
+  },
+  {
+    "char": "錬",
+    "meaning": "tempering, refine, drill",
+    "radical": "金",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "蜂",
+    "meaning": "bee, wasp, hornet",
+    "radical": "虫",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "衷",
+    "meaning": "inmost, heart, mind",
+    "radical": "衣",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "逐",
+    "meaning": "pursue, drive away, chase",
+    "radical": "辵",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "斥",
+    "meaning": "reject, retreat, recede",
+    "radical": "斤",
+    "level": "N1",
+    "strokes": 5
+  },
+  {
+    "char": "詔",
+    "meaning": "imperial edict",
+    "radical": "言",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "椅",
+    "meaning": "chair",
+    "radical": "木",
+    "level": "Jōyō",
+    "strokes": 12
+  },
+  {
+    "char": "叱",
+    "meaning": "scold, reprove",
+    "radical": "口",
+    "level": "Jōyō",
+    "strokes": 5
+  },
+  {
+    "char": "挨",
+    "meaning": "approach, draw near, push open",
+    "radical": "手",
+    "level": "Jōyō",
+    "strokes": 10
+  },
+  {
+    "char": "憧",
+    "meaning": "yearn after, long for, aspire to",
+    "radical": "心",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "宵",
+    "meaning": "wee hours, evening, early night",
+    "radical": "宀",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "妄",
+    "meaning": "delusion, unnecessarily, without authority",
+    "radical": "女",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "酌",
+    "meaning": "bar-tending, serving sake, the host",
+    "radical": "酉",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "餌",
+    "meaning": "food, bait, prey",
+    "radical": "食",
+    "level": "Jōyō",
+    "strokes": 14
+  },
+  {
+    "char": "頒",
+    "meaning": "distribute, disseminate, partition",
+    "radical": "頁",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "肢",
+    "meaning": "limb, arms & legs",
+    "radical": "肉",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "謄",
+    "meaning": "mimeograph, copy",
+    "radical": "言",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "脊",
+    "meaning": "stature, height",
+    "radical": "肉",
+    "level": "Jōyō",
+    "strokes": 10
+  },
+  {
+    "char": "嗣",
+    "meaning": "heir, succeed",
+    "radical": "口",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "凄",
+    "meaning": "uncanny, weird, threatening",
+    "radical": "冫",
+    "level": "Jōyō",
+    "strokes": 10
+  },
+  {
+    "char": "嫉",
+    "meaning": "jealous, envy",
+    "radical": "女",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "膝",
+    "meaning": "knee, lap",
+    "radical": "肉",
+    "level": "Jōyō",
+    "strokes": 15
+  },
+  {
+    "char": "恣",
+    "meaning": "selfish, arbitrary",
+    "radical": "心",
+    "level": "Jōyō",
+    "strokes": 10
+  },
+  {
+    "char": "畝",
+    "meaning": "furrow, thirty tsubo, ridge",
+    "radical": "田",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "抄",
+    "meaning": "extract, selection, summary",
+    "radical": "手",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "麺",
+    "meaning": "noodles, wheat flour",
+    "radical": "麥",
+    "level": "Jōyō",
+    "strokes": 16
+  },
+  {
+    "char": "戴",
+    "meaning": "be crowned with, live under (a ruler), receive",
+    "radical": "戈",
+    "level": "Jōyō",
+    "strokes": 17
+  },
+  {
+    "char": "爽",
+    "meaning": "refreshing, bracing, resonant",
+    "radical": "爻",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "裾",
+    "meaning": "cuff, hem, foot of mountain",
+    "radical": "衣",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "惰",
+    "meaning": "lazy, laziness",
+    "radical": "心",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "蛮",
+    "meaning": "barbarian",
+    "radical": "虫",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "旺",
+    "meaning": "flourishing, successful, beautiful",
+    "radical": "日",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "冥",
+    "meaning": "dark",
+    "radical": "冖",
+    "level": "Jōyō",
+    "strokes": 10
+  },
+  {
+    "char": "壱",
+    "meaning": "one (in documents)",
+    "radical": "士",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "瑠",
+    "meaning": "lapis lazuli",
+    "radical": "玉",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "侯",
+    "meaning": "marquis, lord, daimyo",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "麓",
+    "meaning": "foot of a mountain",
+    "radical": "鹿",
+    "level": "Jōyō",
+    "strokes": 19
+  },
+  {
+    "char": "弧",
+    "meaning": "arc, arch, bow",
+    "radical": "弓",
+    "level": "N1",
+    "strokes": 9
+  },
+  {
+    "char": "稽",
+    "meaning": "think, consider",
+    "radical": "禾",
+    "level": "Jōyō",
+    "strokes": 16
+  },
+  {
+    "char": "蹴",
+    "meaning": "kick",
+    "radical": "足",
+    "level": "Jōyō",
+    "strokes": 19
+  },
+  {
+    "char": "訃",
+    "meaning": "obituary",
+    "radical": "言",
+    "level": "Jōyō",
+    "strokes": 9
+  },
+  {
+    "char": "剥",
+    "meaning": "come off, peel, fade",
+    "radical": "刀",
+    "level": "Jōyō",
+    "strokes": 10
+  },
+  {
+    "char": "蓋",
+    "meaning": "cover, lid, flap",
+    "radical": "艸",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "畏",
+    "meaning": "fear, majestic, graciously",
+    "radical": "田",
+    "level": "Jōyō",
+    "strokes": 9
+  },
+  {
+    "char": "喉",
+    "meaning": "throat, voice",
+    "radical": "口",
+    "level": "Jōyō",
+    "strokes": 12
+  },
+  {
+    "char": "附",
+    "meaning": "affixed, attach, refer to",
+    "radical": "阜",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "但",
+    "meaning": "however, but",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "芋",
+    "meaning": "potato",
+    "radical": "艸",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "拭",
+    "meaning": "wipe, mop, swab",
+    "radical": "手",
+    "level": "Jōyō",
+    "strokes": 9
+  },
+  {
+    "char": "婆",
+    "meaning": "old woman, grandma, wet nurse",
+    "radical": "女",
+    "level": "N1",
+    "strokes": 11
+  },
+  {
+    "char": "貼",
+    "meaning": "stick, paste, apply",
+    "radical": "貝",
+    "level": "Jōyō",
+    "strokes": 12
+  },
+  {
+    "char": "倣",
+    "meaning": "emulate, imitate",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "諦",
+    "meaning": "truth, clarity, abandon",
+    "radical": "言",
+    "level": "Jōyō",
+    "strokes": 16
+  },
+  {
+    "char": "煎",
+    "meaning": "broil, parch, roast",
+    "radical": "火",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "緻",
+    "meaning": "fine (i.e. not coarse)",
+    "radical": "糸",
+    "level": "Jōyō",
+    "strokes": 16
+  },
+  {
+    "char": "哺",
+    "meaning": "nurse, suckle",
+    "radical": "口",
+    "level": "Jōyō",
+    "strokes": 10
+  },
+  {
+    "char": "罵",
+    "meaning": "abuse, insult",
+    "radical": "网",
+    "level": "Jōyō",
+    "strokes": 15
+  },
+  {
+    "char": "乞",
+    "meaning": "beg, invite, ask",
+    "radical": "乙",
+    "level": "Jōyō",
+    "strokes": 3
+  },
+  {
+    "char": "倹",
+    "meaning": "frugal, economy, thrifty",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "嗅",
+    "meaning": "smell, sniff, scent",
+    "radical": "口",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "蔑",
+    "meaning": "ignore, despise, neglect",
+    "radical": "艸",
+    "level": "Jōyō",
+    "strokes": 14
+  },
+  {
+    "char": "繭",
+    "meaning": "cocoon",
+    "radical": "糸",
+    "level": "N1",
+    "strokes": 18
+  },
+  {
+    "char": "伎",
+    "meaning": "deed, skill",
+    "radical": "人",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "賂",
+    "meaning": "bribe",
+    "radical": "貝",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "遜",
+    "meaning": "humble, modest",
+    "radical": "辵",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "酎",
+    "meaning": "sake",
+    "radical": "酉",
+    "level": "Jōyō",
+    "strokes": 10
+  },
+  {
+    "char": "崖",
+    "meaning": "cliff, bluff, precipice",
+    "radical": "山",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "瞭",
+    "meaning": "clear",
+    "radical": "目",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "隙",
+    "meaning": "crevice, fissure, discord",
+    "radical": "阜",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "巾",
+    "meaning": "towel, hanging scroll, width",
+    "radical": "巾",
+    "level": "Jōyō",
+    "strokes": 3
+  },
+  {
+    "char": "鬱",
+    "meaning": "gloom, depression, melancholy",
+    "radical": "鬯",
+    "level": "Jōyō",
+    "strokes": 29
+  },
+  {
+    "char": "且",
+    "meaning": "moreover, also, furthermore",
+    "radical": "一",
+    "level": "N1",
+    "strokes": 5
+  },
+  {
+    "char": "傲",
+    "meaning": "be proud",
+    "radical": "人",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "旦",
+    "meaning": "daybreak, dawn, morning",
+    "radical": "日",
+    "level": "N1",
+    "strokes": 5
+  },
+  {
+    "char": "璃",
+    "meaning": "glassy, lapis lazuli",
+    "radical": "玉",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "汰",
+    "meaning": "washing, sieving, filtering",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "宛",
+    "meaning": "address, just like, fortunately",
+    "radical": "宀",
+    "level": "Jōyō",
+    "strokes": 8
+  },
+  {
+    "char": "萎",
+    "meaning": "wither, droop, lame",
+    "radical": "艸",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "咽",
+    "meaning": "throat, choked, smothered",
+    "radical": "口",
+    "level": "Jōyō",
+    "strokes": 9
+  },
+  {
+    "char": "淫",
+    "meaning": "lewdness, licentiousness",
+    "radical": "水",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "謁",
+    "meaning": "audience, audience (with king)",
+    "radical": "言",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "臆",
+    "meaning": "timidity, heart, mind",
+    "radical": "肉",
+    "level": "Jōyō",
+    "strokes": 17
+  },
+  {
+    "char": "箇",
+    "meaning": "counter for articles",
+    "radical": "竹",
+    "level": "N1",
+    "strokes": 14
+  },
+  {
+    "char": "苛",
+    "meaning": "torment, scold, chastise",
+    "radical": "艸",
+    "level": "Jōyō",
+    "strokes": 8
+  },
+  {
+    "char": "骸",
+    "meaning": "bone, body, corpse",
+    "radical": "骨",
+    "level": "Jōyō",
+    "strokes": 16
+  },
+  {
+    "char": "顎",
+    "meaning": "jaw, chin, gill",
+    "radical": "頁",
+    "level": "Jōyō",
+    "strokes": 18
+  },
+  {
+    "char": "僅",
+    "meaning": "a wee bit",
+    "radical": "人",
+    "level": "Jōyō",
+    "strokes": 12
+  },
+  {
+    "char": "斤",
+    "meaning": "axe, 1.32 lb, catty",
+    "radical": "斤",
+    "level": "N1",
+    "strokes": 4
+  },
+  {
+    "char": "虞",
+    "meaning": "fear, uneasiness, anxiety",
+    "radical": "虍",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "窟",
+    "meaning": "cavern",
+    "radical": "穴",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "詣",
+    "meaning": "visit a temple, arrive, attain",
+    "radical": "言",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "桁",
+    "meaning": "beam, girder, spar",
+    "radical": "木",
+    "level": "Jōyō",
+    "strokes": 10
+  },
+  {
+    "char": "舷",
+    "meaning": "gunwale",
+    "radical": "舟",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "勾",
+    "meaning": "be bent, slope, capture",
+    "radical": "勹",
+    "level": "Jōyō",
+    "strokes": 4
+  },
+  {
+    "char": "梗",
+    "meaning": "for the most part, close up, flower stem",
+    "radical": "木",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "墾",
+    "meaning": "ground-breaking, open up farmland",
+    "radical": "土",
+    "level": "N1",
+    "strokes": 16
+  },
+  {
+    "char": "塞",
+    "meaning": "close, shut, cover",
+    "radical": "土",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "采",
+    "meaning": "dice, form, appearance",
+    "radical": "采",
+    "level": "N1",
+    "strokes": 8
+  },
+  {
+    "char": "柵",
+    "meaning": "stockade, fence, weir",
+    "radical": "木",
+    "level": "Jōyō",
+    "strokes": 9
+  },
+  {
+    "char": "拶",
+    "meaning": "be imminent, draw close",
+    "radical": "手",
+    "level": "Jōyō",
+    "strokes": 9
+  },
+  {
+    "char": "璽",
+    "meaning": "emperor\\",
+    "radical": "玉",
+    "level": "N1",
+    "strokes": 19
+  },
+  {
+    "char": "爵",
+    "meaning": "baron, peerage, court rank",
+    "radical": "爪",
+    "level": "N1",
+    "strokes": 17
+  },
+  {
+    "char": "遵",
+    "meaning": "abide by, follow, obey",
+    "radical": "辵",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "醒",
+    "meaning": "awake, be disillusioned, sober up",
+    "radical": "酉",
+    "level": "Jōyō",
+    "strokes": 16
+  },
+  {
+    "char": "戚",
+    "meaning": "grieve, relatives",
+    "radical": "戈",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "羨",
+    "meaning": "envious, be jealous, covet",
+    "radical": "羊",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "腺",
+    "meaning": "gland",
+    "radical": "肉",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "詮",
+    "meaning": "discussion, methods called for, selection",
+    "radical": "言",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "塑",
+    "meaning": "model, molding",
+    "radical": "土",
+    "level": "N1",
+    "strokes": 13
+  },
+  {
+    "char": "遡",
+    "meaning": "go upstream, retrace the past",
+    "radical": "辵",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "痩",
+    "meaning": "get thin",
+    "radical": "疒",
+    "level": "Jōyō",
+    "strokes": 12
+  },
+  {
+    "char": "唾",
+    "meaning": "saliva, sputum",
+    "radical": "口",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "綻",
+    "meaning": "be rent, ripped, unravel",
+    "radical": "糸",
+    "level": "Jōyō",
+    "strokes": 14
+  },
+  {
+    "char": "捗",
+    "meaning": "make progress",
+    "radical": "手",
+    "level": "Jōyō",
+    "strokes": 10
+  },
+  {
+    "char": "朕",
+    "meaning": "majestic plural, imperial we",
+    "radical": "月",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "潰",
+    "meaning": "crush, smash, break",
+    "radical": "水",
+    "level": "Jōyō",
+    "strokes": 15
+  },
+  {
+    "char": "溺",
+    "meaning": "drown, indulge",
+    "radical": "水",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "妬",
+    "meaning": "jealous, envy",
+    "radical": "女",
+    "level": "Jōyō",
+    "strokes": 8
+  },
+  {
+    "char": "痘",
+    "meaning": "pox, smallpox",
+    "radical": "疒",
+    "level": "N1",
+    "strokes": 12
+  },
+  {
+    "char": "頓",
+    "meaning": "suddenly, immediately, in a hurry",
+    "radical": "頁",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "弐",
+    "meaning": "ii, two, second",
+    "radical": "弋",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "捻",
+    "meaning": "twirl, twist, play with",
+    "radical": "手",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "氾",
+    "meaning": "spread out, wide",
+    "radical": "水",
+    "level": "Jōyō",
+    "strokes": 5
+  },
+  {
+    "char": "肘",
+    "meaning": "elbow, arm",
+    "radical": "肉",
+    "level": "Jōyō",
+    "strokes": 7
+  },
+  {
+    "char": "賦",
+    "meaning": "levy, ode, prose",
+    "radical": "貝",
+    "level": "N1",
+    "strokes": 15
+  },
+  {
+    "char": "丙",
+    "meaning": "third class, 3rd, 3rd calendar sign",
+    "radical": "一",
+    "level": "N1",
+    "strokes": 5
+  },
+  {
+    "char": "蔽",
+    "meaning": "cover, shade, mantle",
+    "radical": "艸",
+    "level": "Jōyō",
+    "strokes": 15
+  },
+  {
+    "char": "貌",
+    "meaning": "form, appearance, countenance",
+    "radical": "豸",
+    "level": "Jōyō",
+    "strokes": 14
+  },
+  {
+    "char": "勃",
+    "meaning": "suddenness, rise",
+    "radical": "力",
+    "level": "Jōyō",
+    "strokes": 9
+  },
+  {
+    "char": "昧",
+    "meaning": "dark, foolish",
+    "radical": "日",
+    "level": "Jōyō",
+    "strokes": 9
+  },
+  {
+    "char": "耗",
+    "meaning": "decrease",
+    "radical": "耒",
+    "level": "N1",
+    "strokes": 10
+  },
+  {
+    "char": "冶",
+    "meaning": "melting, smelting",
+    "radical": "冫",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "沃",
+    "meaning": "fertility",
+    "radical": "水",
+    "level": "Jōyō",
+    "strokes": 7
+  },
+  {
+    "char": "濫",
+    "meaning": "excessive, overflow, spread out",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 18
+  },
+  {
+    "char": "吏",
+    "meaning": "officer, an official",
+    "radical": "口",
+    "level": "N1",
+    "strokes": 6
+  },
+  {
+    "char": "侶",
+    "meaning": "companion, follower",
+    "radical": "人",
+    "level": "Jōyō",
+    "strokes": 9
+  },
+  {
+    "char": "弄",
+    "meaning": "play with, tamper, trifle with",
+    "radical": "廾",
+    "level": "Jōyō",
+    "strokes": 7
+  },
+  {
+    "char": "刹",
+    "meaning": "temple",
+    "radical": "刀",
+    "level": "Jōyō",
+    "strokes": 8
+  },
+  {
+    "char": "喩",
+    "meaning": "metaphor, compare",
+    "radical": "口",
+    "level": "Jōyō",
+    "strokes": 12
+  },
+  {
+    "char": "嘲",
+    "meaning": "ridicule, insult",
+    "radical": "口",
+    "level": "Jōyō",
+    "strokes": 15
+  },
+  {
+    "char": "毀",
+    "meaning": "break, destroy, censure",
+    "radical": "殳",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "彙",
+    "meaning": "same kind, collect, classify",
+    "radical": "彐",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "慄",
+    "meaning": "fear",
+    "radical": "心",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "憬",
+    "meaning": "yearn for, aspire to, admire",
+    "radical": "心",
+    "level": "Jōyō",
+    "strokes": 15
+  },
+  {
+    "char": "拉",
+    "meaning": "latin, kidnap, crush",
+    "radical": "手",
+    "level": "Jōyō",
+    "strokes": 8
+  },
+  {
+    "char": "曖",
+    "meaning": "dark, not clear",
+    "radical": "日",
+    "level": "Jōyō",
+    "strokes": 17
+  },
+  {
+    "char": "楷",
+    "meaning": "square character style, correctness",
+    "radical": "木",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "璧",
+    "meaning": "sphere, ball",
+    "radical": "玉",
+    "level": "Jōyō",
+    "strokes": 18
+  },
+  {
+    "char": "瘍",
+    "meaning": "swelling, boil, tumor",
+    "radical": "疒",
+    "level": "Jōyō",
+    "strokes": 14
+  },
+  {
+    "char": "箋",
+    "meaning": "paper, label, letter",
+    "radical": "竹",
+    "level": "Jōyō",
+    "strokes": 14
+  },
+  {
+    "char": "籠",
+    "meaning": "basket, devote oneself, seclude oneself",
+    "radical": "竹",
+    "level": "Jōyō",
+    "strokes": 22
+  },
+  {
+    "char": "羞",
+    "meaning": "feel ashamed",
+    "radical": "羊",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "諧",
+    "meaning": "harmony",
+    "radical": "言",
+    "level": "Jōyō",
+    "strokes": 16
+  },
+  {
+    "char": "貪",
+    "meaning": "covet, indulge in",
+    "radical": "貝",
+    "level": "Jōyō",
+    "strokes": 11
+  },
+  {
+    "char": "踪",
+    "meaning": "remains, clue, footprint",
+    "radical": "足",
+    "level": "Jōyō",
+    "strokes": 15
+  },
+  {
+    "char": "辣",
+    "meaning": "pungent, spicy, harsh",
+    "radical": "辛",
+    "level": "Jōyō",
+    "strokes": 14
+  },
+  {
+    "char": "錮",
+    "meaning": "confinement, to tie",
+    "radical": "金",
+    "level": "Jōyō",
+    "strokes": 16
+  },
+  {
+    "char": "塡",
+    "meaning": "fill in, fill up, make good",
+    "radical": "土",
+    "level": "Jōyō",
+    "strokes": 13
+  },
+  {
+    "char": "頰",
+    "meaning": "cheeks, jaw",
+    "radical": "頁",
+    "level": "Jōyō",
+    "strokes": 16
+  }
+]

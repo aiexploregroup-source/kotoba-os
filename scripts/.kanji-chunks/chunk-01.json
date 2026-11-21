@@ -1,0 +1,1871 @@
+[
+  {
+    "char": "日",
+    "meaning": "day, sun, japan",
+    "radical": "日",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "一",
+    "meaning": "one",
+    "radical": "一",
+    "level": "N5",
+    "strokes": 1
+  },
+  {
+    "char": "人",
+    "meaning": "person",
+    "radical": "人",
+    "level": "N5",
+    "strokes": 2
+  },
+  {
+    "char": "年",
+    "meaning": "year, counter for years",
+    "radical": "干",
+    "level": "N5",
+    "strokes": 6
+  },
+  {
+    "char": "大",
+    "meaning": "large, big",
+    "radical": "大",
+    "level": "N5",
+    "strokes": 3
+  },
+  {
+    "char": "十",
+    "meaning": "ten",
+    "radical": "十",
+    "level": "N5",
+    "strokes": 2
+  },
+  {
+    "char": "二",
+    "meaning": "two",
+    "radical": "二",
+    "level": "N5",
+    "strokes": 2
+  },
+  {
+    "char": "本",
+    "meaning": "book, present, main",
+    "radical": "木",
+    "level": "N5",
+    "strokes": 5
+  },
+  {
+    "char": "中",
+    "meaning": "in, inside, middle",
+    "radical": "丨",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "出",
+    "meaning": "exit, leave, go out",
+    "radical": "凵",
+    "level": "N5",
+    "strokes": 5
+  },
+  {
+    "char": "三",
+    "meaning": "three",
+    "radical": "一",
+    "level": "N5",
+    "strokes": 3
+  },
+  {
+    "char": "見",
+    "meaning": "see, hopes, chances",
+    "radical": "見",
+    "level": "N5",
+    "strokes": 7
+  },
+  {
+    "char": "月",
+    "meaning": "month, moon",
+    "radical": "月",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "生",
+    "meaning": "life, genuine, birth",
+    "radical": "生",
+    "level": "N5",
+    "strokes": 5
+  },
+  {
+    "char": "五",
+    "meaning": "five",
+    "radical": "二",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "上",
+    "meaning": "above, up",
+    "radical": "一",
+    "level": "N5",
+    "strokes": 3
+  },
+  {
+    "char": "四",
+    "meaning": "four",
+    "radical": "囗",
+    "level": "N5",
+    "strokes": 5
+  },
+  {
+    "char": "金",
+    "meaning": "gold",
+    "radical": "金",
+    "level": "N5",
+    "strokes": 8
+  },
+  {
+    "char": "九",
+    "meaning": "nine",
+    "radical": "乙",
+    "level": "N5",
+    "strokes": 2
+  },
+  {
+    "char": "入",
+    "meaning": "enter, insert",
+    "radical": "入",
+    "level": "N5",
+    "strokes": 2
+  },
+  {
+    "char": "立",
+    "meaning": "stand up, rise, set up",
+    "radical": "立",
+    "level": "N4",
+    "strokes": 5
+  },
+  {
+    "char": "手",
+    "meaning": "hand",
+    "radical": "手",
+    "level": "N4",
+    "strokes": 4
+  },
+  {
+    "char": "力",
+    "meaning": "power, strength, strong",
+    "radical": "力",
+    "level": "N4",
+    "strokes": 2
+  },
+  {
+    "char": "学",
+    "meaning": "study, learning, science",
+    "radical": "子",
+    "level": "N5",
+    "strokes": 8
+  },
+  {
+    "char": "円",
+    "meaning": "circle, yen, round",
+    "radical": "冂",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "子",
+    "meaning": "child, sign of the rat, 11pm-1am",
+    "radical": "子",
+    "level": "N5",
+    "strokes": 3
+  },
+  {
+    "char": "目",
+    "meaning": "eye, class, look",
+    "radical": "目",
+    "level": "N4",
+    "strokes": 5
+  },
+  {
+    "char": "田",
+    "meaning": "rice field, rice paddy",
+    "radical": "田",
+    "level": "N4",
+    "strokes": 5
+  },
+  {
+    "char": "八",
+    "meaning": "eight",
+    "radical": "八",
+    "level": "N5",
+    "strokes": 2
+  },
+  {
+    "char": "六",
+    "meaning": "six",
+    "radical": "八",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "下",
+    "meaning": "below, down, descend",
+    "radical": "一",
+    "level": "N5",
+    "strokes": 3
+  },
+  {
+    "char": "気",
+    "meaning": "spirit, mind, air",
+    "radical": "气",
+    "level": "N5",
+    "strokes": 6
+  },
+  {
+    "char": "小",
+    "meaning": "little, small",
+    "radical": "小",
+    "level": "N5",
+    "strokes": 3
+  },
+  {
+    "char": "七",
+    "meaning": "seven",
+    "radical": "一",
+    "level": "N5",
+    "strokes": 2
+  },
+  {
+    "char": "山",
+    "meaning": "mountain",
+    "radical": "山",
+    "level": "N5",
+    "strokes": 3
+  },
+  {
+    "char": "正",
+    "meaning": "correct, justice, righteous",
+    "radical": "止",
+    "level": "N4",
+    "strokes": 5
+  },
+  {
+    "char": "女",
+    "meaning": "woman, female",
+    "radical": "女",
+    "level": "N5",
+    "strokes": 3
+  },
+  {
+    "char": "百",
+    "meaning": "hundred",
+    "radical": "白",
+    "level": "N5",
+    "strokes": 6
+  },
+  {
+    "char": "先",
+    "meaning": "before, ahead, previous",
+    "radical": "儿",
+    "level": "N5",
+    "strokes": 6
+  },
+  {
+    "char": "名",
+    "meaning": "name, noted, distinguished",
+    "radical": "口",
+    "level": "N5",
+    "strokes": 6
+  },
+  {
+    "char": "川",
+    "meaning": "stream, river",
+    "radical": "巛",
+    "level": "N5",
+    "strokes": 3
+  },
+  {
+    "char": "文",
+    "meaning": "sentence, literature, style",
+    "radical": "文",
+    "level": "N4",
+    "strokes": 4
+  },
+  {
+    "char": "千",
+    "meaning": "thousand",
+    "radical": "十",
+    "level": "N5",
+    "strokes": 3
+  },
+  {
+    "char": "水",
+    "meaning": "water",
+    "radical": "水",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "男",
+    "meaning": "male",
+    "radical": "田",
+    "level": "N5",
+    "strokes": 7
+  },
+  {
+    "char": "村",
+    "meaning": "village, town",
+    "radical": "木",
+    "level": "N2",
+    "strokes": 7
+  },
+  {
+    "char": "口",
+    "meaning": "mouth",
+    "radical": "口",
+    "level": "N4",
+    "strokes": 3
+  },
+  {
+    "char": "町",
+    "meaning": "town, village, block",
+    "radical": "田",
+    "level": "N4",
+    "strokes": 7
+  },
+  {
+    "char": "校",
+    "meaning": "exam, school, printing",
+    "radical": "木",
+    "level": "N5",
+    "strokes": 10
+  },
+  {
+    "char": "空",
+    "meaning": "empty, sky, void",
+    "radical": "穴",
+    "level": "N4",
+    "strokes": 8
+  },
+  {
+    "char": "土",
+    "meaning": "soil, earth, ground",
+    "radical": "土",
+    "level": "N5",
+    "strokes": 3
+  },
+  {
+    "char": "木",
+    "meaning": "tree, wood",
+    "radical": "木",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "車",
+    "meaning": "car",
+    "radical": "車",
+    "level": "N5",
+    "strokes": 7
+  },
+  {
+    "char": "石",
+    "meaning": "stone",
+    "radical": "石",
+    "level": "N3",
+    "strokes": 5
+  },
+  {
+    "char": "足",
+    "meaning": "leg, foot, be sufficient",
+    "radical": "足",
+    "level": "N4",
+    "strokes": 7
+  },
+  {
+    "char": "早",
+    "meaning": "early, fast",
+    "radical": "日",
+    "level": "N4",
+    "strokes": 6
+  },
+  {
+    "char": "白",
+    "meaning": "white",
+    "radical": "白",
+    "level": "N5",
+    "strokes": 5
+  },
+  {
+    "char": "字",
+    "meaning": "character, letter, word",
+    "radical": "子",
+    "level": "N4",
+    "strokes": 6
+  },
+  {
+    "char": "音",
+    "meaning": "sound, noise",
+    "radical": "音",
+    "level": "N4",
+    "strokes": 9
+  },
+  {
+    "char": "天",
+    "meaning": "heavens, sky, imperial",
+    "radical": "大",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "火",
+    "meaning": "fire",
+    "radical": "火",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "花",
+    "meaning": "flower",
+    "radical": "艸",
+    "level": "N4",
+    "strokes": 7
+  },
+  {
+    "char": "赤",
+    "meaning": "red",
+    "radical": "赤",
+    "level": "N4",
+    "strokes": 7
+  },
+  {
+    "char": "青",
+    "meaning": "blue, green",
+    "radical": "靑",
+    "level": "N4",
+    "strokes": 8
+  },
+  {
+    "char": "竹",
+    "meaning": "bamboo",
+    "radical": "竹",
+    "level": "N2",
+    "strokes": 6
+  },
+  {
+    "char": "右",
+    "meaning": "right",
+    "radical": "口",
+    "level": "N5",
+    "strokes": 5
+  },
+  {
+    "char": "森",
+    "meaning": "forest, woods",
+    "radical": "木",
+    "level": "N2",
+    "strokes": 12
+  },
+  {
+    "char": "左",
+    "meaning": "left",
+    "radical": "工",
+    "level": "N5",
+    "strokes": 5
+  },
+  {
+    "char": "休",
+    "meaning": "rest, day off, retire",
+    "radical": "人",
+    "level": "N5",
+    "strokes": 6
+  },
+  {
+    "char": "林",
+    "meaning": "grove, forest",
+    "radical": "木",
+    "level": "N2",
+    "strokes": 8
+  },
+  {
+    "char": "王",
+    "meaning": "king, rule, magnate",
+    "radical": "玉",
+    "level": "N3",
+    "strokes": 4
+  },
+  {
+    "char": "玉",
+    "meaning": "jewel, ball",
+    "radical": "玉",
+    "level": "N2",
+    "strokes": 5
+  },
+  {
+    "char": "夕",
+    "meaning": "evening",
+    "radical": "夕",
+    "level": "N4",
+    "strokes": 3
+  },
+  {
+    "char": "雨",
+    "meaning": "rain",
+    "radical": "雨",
+    "level": "N5",
+    "strokes": 8
+  },
+  {
+    "char": "草",
+    "meaning": "grass, weeds, herbs",
+    "radical": "艸",
+    "level": "N3",
+    "strokes": 9
+  },
+  {
+    "char": "犬",
+    "meaning": "dog",
+    "radical": "犬",
+    "level": "N4",
+    "strokes": 4
+  },
+  {
+    "char": "耳",
+    "meaning": "ear",
+    "radical": "耳",
+    "level": "N3",
+    "strokes": 6
+  },
+  {
+    "char": "虫",
+    "meaning": "insect, bug, temper",
+    "radical": "虫",
+    "level": "N2",
+    "strokes": 6
+  },
+  {
+    "char": "糸",
+    "meaning": "thread",
+    "radical": "糸",
+    "level": "N2",
+    "strokes": 6
+  },
+  {
+    "char": "貝",
+    "meaning": "shellfish",
+    "radical": "貝",
+    "level": "N2",
+    "strokes": 7
+  },
+  {
+    "char": "国",
+    "meaning": "country",
+    "radical": "囗",
+    "level": "N5",
+    "strokes": 8
+  },
+  {
+    "char": "会",
+    "meaning": "meeting, meet, party",
+    "radical": "人",
+    "level": "N4",
+    "strokes": 6
+  },
+  {
+    "char": "長",
+    "meaning": "long, leader, superior",
+    "radical": "長",
+    "level": "N5",
+    "strokes": 8
+  },
+  {
+    "char": "同",
+    "meaning": "same, agree, equal",
+    "radical": "口",
+    "level": "N4",
+    "strokes": 6
+  },
+  {
+    "char": "時",
+    "meaning": "time, hour",
+    "radical": "日",
+    "level": "N5",
+    "strokes": 10
+  },
+  {
+    "char": "自",
+    "meaning": "oneself",
+    "radical": "自",
+    "level": "N4",
+    "strokes": 6
+  },
+  {
+    "char": "行",
+    "meaning": "going, journey, carry out",
+    "radical": "行",
+    "level": "N5",
+    "strokes": 6
+  },
+  {
+    "char": "社",
+    "meaning": "company, firm, office",
+    "radical": "示",
+    "level": "N4",
+    "strokes": 7
+  },
+  {
+    "char": "分",
+    "meaning": "part, minute of time, segment",
+    "radical": "刀",
+    "level": "N4",
+    "strokes": 4
+  },
+  {
+    "char": "後",
+    "meaning": "behind, back, later",
+    "radical": "彳",
+    "level": "N5",
+    "strokes": 9
+  },
+  {
+    "char": "前",
+    "meaning": "in front, before",
+    "radical": "刀",
+    "level": "N5",
+    "strokes": 9
+  },
+  {
+    "char": "間",
+    "meaning": "interval, space",
+    "radical": "門",
+    "level": "N5",
+    "strokes": 12
+  },
+  {
+    "char": "東",
+    "meaning": "east",
+    "radical": "木",
+    "level": "N5",
+    "strokes": 8
+  },
+  {
+    "char": "地",
+    "meaning": "ground, earth",
+    "radical": "土",
+    "level": "N4",
+    "strokes": 6
+  },
+  {
+    "char": "合",
+    "meaning": "fit, suit, join",
+    "radical": "口",
+    "level": "N3",
+    "strokes": 6
+  },
+  {
+    "char": "市",
+    "meaning": "market, city, town",
+    "radical": "巾",
+    "level": "N3",
+    "strokes": 5
+  },
+  {
+    "char": "内",
+    "meaning": "inside, within, between",
+    "radical": "冂",
+    "level": "N3",
+    "strokes": 4
+  },
+  {
+    "char": "方",
+    "meaning": "direction, person, alternative",
+    "radical": "方",
+    "level": "N4",
+    "strokes": 4
+  },
+  {
+    "char": "今",
+    "meaning": "now",
+    "radical": "人",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "回",
+    "meaning": "-times, round, game",
+    "radical": "囗",
+    "level": "N3",
+    "strokes": 6
+  },
+  {
+    "char": "新",
+    "meaning": "new",
+    "radical": "斤",
+    "level": "N4",
+    "strokes": 13
+  },
+  {
+    "char": "場",
+    "meaning": "location, place",
+    "radical": "土",
+    "level": "N4",
+    "strokes": 12
+  },
+  {
+    "char": "米",
+    "meaning": "rice, usa, metre",
+    "radical": "米",
+    "level": "N3",
+    "strokes": 6
+  },
+  {
+    "char": "高",
+    "meaning": "tall, high, expensive",
+    "radical": "高",
+    "level": "N5",
+    "strokes": 10
+  },
+  {
+    "char": "明",
+    "meaning": "bright, light",
+    "radical": "日",
+    "level": "N4",
+    "strokes": 8
+  },
+  {
+    "char": "京",
+    "meaning": "capital, 10**16",
+    "radical": "亠",
+    "level": "N4",
+    "strokes": 8
+  },
+  {
+    "char": "通",
+    "meaning": "traffic, pass through, avenue",
+    "radical": "辵",
+    "level": "N4",
+    "strokes": 10
+  },
+  {
+    "char": "外",
+    "meaning": "outside",
+    "radical": "夕",
+    "level": "N5",
+    "strokes": 5
+  },
+  {
+    "char": "言",
+    "meaning": "say, word",
+    "radical": "言",
+    "level": "N4",
+    "strokes": 7
+  },
+  {
+    "char": "理",
+    "meaning": "logic, arrangement, reason",
+    "radical": "玉",
+    "level": "N4",
+    "strokes": 11
+  },
+  {
+    "char": "体",
+    "meaning": "body, substance, object",
+    "radical": "人",
+    "level": "N4",
+    "strokes": 7
+  },
+  {
+    "char": "当",
+    "meaning": "hit, right, appropriate",
+    "radical": "彐",
+    "level": "N3",
+    "strokes": 6
+  },
+  {
+    "char": "首",
+    "meaning": "neck, counter for songs and poems",
+    "radical": "首",
+    "level": "N3",
+    "strokes": 9
+  },
+  {
+    "char": "来",
+    "meaning": "come, due, next",
+    "radical": "木",
+    "level": "N5",
+    "strokes": 7
+  },
+  {
+    "char": "作",
+    "meaning": "make, production, prepare",
+    "radical": "人",
+    "level": "N4",
+    "strokes": 7
+  },
+  {
+    "char": "用",
+    "meaning": "utilize, business, service",
+    "radical": "用",
+    "level": "N4",
+    "strokes": 5
+  },
+  {
+    "char": "強",
+    "meaning": "strong",
+    "radical": "弓",
+    "level": "N4",
+    "strokes": 11
+  },
+  {
+    "char": "公",
+    "meaning": "public, prince, official",
+    "radical": "八",
+    "level": "N4",
+    "strokes": 4
+  },
+  {
+    "char": "野",
+    "meaning": "plains, field, rustic",
+    "radical": "里",
+    "level": "N4",
+    "strokes": 11
+  },
+  {
+    "char": "思",
+    "meaning": "think",
+    "radical": "心",
+    "level": "N4",
+    "strokes": 9
+  },
+  {
+    "char": "家",
+    "meaning": "house, home, family",
+    "radical": "宀",
+    "level": "N4",
+    "strokes": 10
+  },
+  {
+    "char": "話",
+    "meaning": "tale, talk",
+    "radical": "言",
+    "level": "N5",
+    "strokes": 13
+  },
+  {
+    "char": "多",
+    "meaning": "many, frequent, much",
+    "radical": "夕",
+    "level": "N4",
+    "strokes": 6
+  },
+  {
+    "char": "数",
+    "meaning": "number, strength, fate",
+    "radical": "攴",
+    "level": "N3",
+    "strokes": 13
+  },
+  {
+    "char": "記",
+    "meaning": "scribe, account, narrative",
+    "radical": "言",
+    "level": "N3",
+    "strokes": 10
+  },
+  {
+    "char": "北",
+    "meaning": "north",
+    "radical": "匕",
+    "level": "N5",
+    "strokes": 5
+  },
+  {
+    "char": "午",
+    "meaning": "noon, sign of the horse, 11am-1pm",
+    "radical": "十",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "心",
+    "meaning": "heart, mind, spirit",
+    "radical": "心",
+    "level": "N4",
+    "strokes": 4
+  },
+  {
+    "char": "点",
+    "meaning": "spot, point, mark",
+    "radical": "火",
+    "level": "N3",
+    "strokes": 9
+  },
+  {
+    "char": "教",
+    "meaning": "teach, faith, doctrine",
+    "radical": "攴",
+    "level": "N4",
+    "strokes": 11
+  },
+  {
+    "char": "書",
+    "meaning": "write",
+    "radical": "曰",
+    "level": "N5",
+    "strokes": 10
+  },
+  {
+    "char": "活",
+    "meaning": "lively, resuscitation, being helped",
+    "radical": "水",
+    "level": "N3",
+    "strokes": 9
+  },
+  {
+    "char": "原",
+    "meaning": "meadow, original, primitive",
+    "radical": "厂",
+    "level": "N3",
+    "strokes": 10
+  },
+  {
+    "char": "交",
+    "meaning": "mingle, mixing, association",
+    "radical": "亠",
+    "level": "N3",
+    "strokes": 6
+  },
+  {
+    "char": "元",
+    "meaning": "beginning, former time, origin",
+    "radical": "儿",
+    "level": "N4",
+    "strokes": 4
+  },
+  {
+    "char": "近",
+    "meaning": "near, early, akin",
+    "radical": "辵",
+    "level": "N4",
+    "strokes": 7
+  },
+  {
+    "char": "考",
+    "meaning": "consider, think over",
+    "radical": "老",
+    "level": "N4",
+    "strokes": 6
+  },
+  {
+    "char": "画",
+    "meaning": "brush-stroke, picture",
+    "radical": "田",
+    "level": "N4",
+    "strokes": 8
+  },
+  {
+    "char": "海",
+    "meaning": "sea, ocean",
+    "radical": "水",
+    "level": "N4",
+    "strokes": 9
+  },
+  {
+    "char": "売",
+    "meaning": "sell",
+    "radical": "士",
+    "level": "N4",
+    "strokes": 7
+  },
+  {
+    "char": "組",
+    "meaning": "association, braid, plait",
+    "radical": "糸",
+    "level": "N3",
+    "strokes": 11
+  },
+  {
+    "char": "知",
+    "meaning": "know, wisdom",
+    "radical": "矢",
+    "level": "N4",
+    "strokes": 8
+  },
+  {
+    "char": "道",
+    "meaning": "road-way, street, district",
+    "radical": "辵",
+    "level": "N4",
+    "strokes": 12
+  },
+  {
+    "char": "引",
+    "meaning": "pull, tug, jerk",
+    "radical": "弓",
+    "level": "N3",
+    "strokes": 4
+  },
+  {
+    "char": "半",
+    "meaning": "half, middle, odd number",
+    "radical": "十",
+    "level": "N5",
+    "strokes": 5
+  },
+  {
+    "char": "計",
+    "meaning": "plot, plan, scheme",
+    "radical": "言",
+    "level": "N4",
+    "strokes": 9
+  },
+  {
+    "char": "直",
+    "meaning": "straightaway, honesty, frankness",
+    "radical": "目",
+    "level": "N3",
+    "strokes": 8
+  },
+  {
+    "char": "朝",
+    "meaning": "morning, dynasty, regime",
+    "radical": "月",
+    "level": "N4",
+    "strokes": 12
+  },
+  {
+    "char": "西",
+    "meaning": "west, spain",
+    "radical": "襾",
+    "level": "N5",
+    "strokes": 6
+  },
+  {
+    "char": "台",
+    "meaning": "pedestal, a stand, counter for machines and vehicles",
+    "radical": "口",
+    "level": "N4",
+    "strokes": 5
+  },
+  {
+    "char": "広",
+    "meaning": "wide, broad, spacious",
+    "radical": "广",
+    "level": "N4",
+    "strokes": 5
+  },
+  {
+    "char": "電",
+    "meaning": "electricity",
+    "radical": "雨",
+    "level": "N5",
+    "strokes": 13
+  },
+  {
+    "char": "少",
+    "meaning": "few, little",
+    "radical": "小",
+    "level": "N4",
+    "strokes": 4
+  },
+  {
+    "char": "工",
+    "meaning": "craft, construction",
+    "radical": "工",
+    "level": "N4",
+    "strokes": 3
+  },
+  {
+    "char": "語",
+    "meaning": "word, speech, language",
+    "radical": "言",
+    "level": "N5",
+    "strokes": 14
+  },
+  {
+    "char": "止",
+    "meaning": "stop, halt",
+    "radical": "止",
+    "level": "N4",
+    "strokes": 4
+  },
+  {
+    "char": "聞",
+    "meaning": "hear, ask, listen",
+    "radical": "耳",
+    "level": "N5",
+    "strokes": 14
+  },
+  {
+    "char": "切",
+    "meaning": "cut, cutoff, be sharp",
+    "radical": "刀",
+    "level": "N4",
+    "strokes": 4
+  },
+  {
+    "char": "食",
+    "meaning": "eat, food",
+    "radical": "食",
+    "level": "N5",
+    "strokes": 9
+  },
+  {
+    "char": "何",
+    "meaning": "what",
+    "radical": "人",
+    "level": "N5",
+    "strokes": 7
+  },
+  {
+    "char": "南",
+    "meaning": "south",
+    "radical": "十",
+    "level": "N5",
+    "strokes": 9
+  },
+  {
+    "char": "番",
+    "meaning": "turn, number in a series",
+    "radical": "田",
+    "level": "N3",
+    "strokes": 12
+  },
+  {
+    "char": "算",
+    "meaning": "calculate, divining, number",
+    "radical": "竹",
+    "level": "N2",
+    "strokes": 14
+  },
+  {
+    "char": "楽",
+    "meaning": "music, comfort, ease",
+    "radical": "木",
+    "level": "N4",
+    "strokes": 13
+  },
+  {
+    "char": "万",
+    "meaning": "ten thousand, 10,000",
+    "radical": "一",
+    "level": "N5",
+    "strokes": 3
+  },
+  {
+    "char": "店",
+    "meaning": "store, shop",
+    "radical": "广",
+    "level": "N4",
+    "strokes": 8
+  },
+  {
+    "char": "線",
+    "meaning": "line, track",
+    "radical": "糸",
+    "level": "N2",
+    "strokes": 15
+  },
+  {
+    "char": "声",
+    "meaning": "voice",
+    "radical": "士",
+    "level": "N3",
+    "strokes": 7
+  },
+  {
+    "char": "親",
+    "meaning": "parent, intimacy, relative",
+    "radical": "見",
+    "level": "N4",
+    "strokes": 16
+  },
+  {
+    "char": "形",
+    "meaning": "shape, form, style",
+    "radical": "彡",
+    "level": "N3",
+    "strokes": 7
+  },
+  {
+    "char": "頭",
+    "meaning": "head, counter for large animals",
+    "radical": "頁",
+    "level": "N3",
+    "strokes": 16
+  },
+  {
+    "char": "毎",
+    "meaning": "every",
+    "radical": "毋",
+    "level": "N5",
+    "strokes": 6
+  },
+  {
+    "char": "門",
+    "meaning": "gate, counter for cannons",
+    "radical": "門",
+    "level": "N2",
+    "strokes": 8
+  },
+  {
+    "char": "答",
+    "meaning": "solution, answer",
+    "radical": "竹",
+    "level": "N4",
+    "strokes": 12
+  },
+  {
+    "char": "夜",
+    "meaning": "night, evening",
+    "radical": "夕",
+    "level": "N4",
+    "strokes": 8
+  },
+  {
+    "char": "帰",
+    "meaning": "homecoming, arrive at, lead to",
+    "radical": "巾",
+    "level": "N4",
+    "strokes": 10
+  },
+  {
+    "char": "谷",
+    "meaning": "valley",
+    "radical": "谷",
+    "level": "N2",
+    "strokes": 7
+  },
+  {
+    "char": "古",
+    "meaning": "old",
+    "radical": "口",
+    "level": "N4",
+    "strokes": 5
+  },
+  {
+    "char": "歌",
+    "meaning": "song, sing",
+    "radical": "欠",
+    "level": "N4",
+    "strokes": 14
+  },
+  {
+    "char": "買",
+    "meaning": "buy",
+    "radical": "貝",
+    "level": "N4",
+    "strokes": 12
+  },
+  {
+    "char": "光",
+    "meaning": "ray, light",
+    "radical": "儿",
+    "level": "N3",
+    "strokes": 6
+  },
+  {
+    "char": "科",
+    "meaning": "department, course, section",
+    "radical": "禾",
+    "level": "N3",
+    "strokes": 9
+  },
+  {
+    "char": "細",
+    "meaning": "dainty, get thin, taper",
+    "radical": "糸",
+    "level": "N2",
+    "strokes": 11
+  },
+  {
+    "char": "図",
+    "meaning": "map, drawing, plan",
+    "radical": "囗",
+    "level": "N4",
+    "strokes": 7
+  },
+  {
+    "char": "週",
+    "meaning": "week",
+    "radical": "辵",
+    "level": "N4",
+    "strokes": 11
+  },
+  {
+    "char": "丸",
+    "meaning": "round, full (month), perfection",
+    "radical": "丶",
+    "level": "N2",
+    "strokes": 3
+  },
+  {
+    "char": "室",
+    "meaning": "room, apartment, chamber",
+    "radical": "宀",
+    "level": "N4",
+    "strokes": 9
+  },
+  {
+    "char": "太",
+    "meaning": "plump, thick, big around",
+    "radical": "大",
+    "level": "N3",
+    "strokes": 4
+  },
+  {
+    "char": "歩",
+    "meaning": "walk, counter for steps",
+    "radical": "止",
+    "level": "N4",
+    "strokes": 8
+  },
+  {
+    "char": "風",
+    "meaning": "wind, air, style",
+    "radical": "風",
+    "level": "N4",
+    "strokes": 9
+  },
+  {
+    "char": "紙",
+    "meaning": "paper",
+    "radical": "糸",
+    "level": "N4",
+    "strokes": 10
+  },
+  {
+    "char": "母",
+    "meaning": "mother",
+    "radical": "毋",
+    "level": "N5",
+    "strokes": 5
+  },
+  {
+    "char": "黒",
+    "meaning": "black",
+    "radical": "黑",
+    "level": "N4",
+    "strokes": 11
+  },
+  {
+    "char": "戸",
+    "meaning": "door, counter for houses",
+    "radical": "户",
+    "level": "N2",
+    "strokes": 4
+  },
+  {
+    "char": "春",
+    "meaning": "springtime, spring (season)",
+    "radical": "日",
+    "level": "N4",
+    "strokes": 9
+  },
+  {
+    "char": "読",
+    "meaning": "read",
+    "radical": "言",
+    "level": "N5",
+    "strokes": 14
+  },
+  {
+    "char": "色",
+    "meaning": "color",
+    "radical": "色",
+    "level": "N4",
+    "strokes": 6
+  },
+  {
+    "char": "友",
+    "meaning": "friend",
+    "radical": "又",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "走",
+    "meaning": "run",
+    "radical": "走",
+    "level": "N4",
+    "strokes": 7
+  },
+  {
+    "char": "園",
+    "meaning": "park, garden, yard",
+    "radical": "囗",
+    "level": "N3",
+    "strokes": 13
+  },
+  {
+    "char": "秋",
+    "meaning": "autumn",
+    "radical": "禾",
+    "level": "N4",
+    "strokes": 9
+  },
+  {
+    "char": "馬",
+    "meaning": "horse",
+    "radical": "馬",
+    "level": "N3",
+    "strokes": 10
+  },
+  {
+    "char": "父",
+    "meaning": "father",
+    "radical": "父",
+    "level": "N5",
+    "strokes": 4
+  },
+  {
+    "char": "夏",
+    "meaning": "summer",
+    "radical": "夊",
+    "level": "N4",
+    "strokes": 10
+  },
+  {
+    "char": "顔",
+    "meaning": "face, expression",
+    "radical": "頁",
+    "level": "N3",
+    "strokes": 18
+  },
+  {
+    "char": "船",
+    "meaning": "ship, boat",
+    "radical": "舟",
+    "level": "N3",
+    "strokes": 11
+  },
+  {
+    "char": "羽",
+    "meaning": "feathers, counter for birds, rabbits",
+    "radical": "羽",
+    "level": "N2",
+    "strokes": 6
+  },
+  {
+    "char": "岩",
+    "meaning": "boulder, rock, cliff",
+    "radical": "山",
+    "level": "N2",
+    "strokes": 8
+  },
+  {
+    "char": "角",
+    "meaning": "angle, corner, square",
+    "radical": "角",
+    "level": "N2",
+    "strokes": 7
+  },
+  {
+    "char": "池",
+    "meaning": "pond, cistern, pool",
+    "radical": "水",
+    "level": "N2",
+    "strokes": 6
+  },
+  {
+    "char": "星",
+    "meaning": "star, spot, dot",
+    "radical": "日",
+    "level": "N2",
+    "strokes": 9
+  },
+  {
+    "char": "寺",
+    "meaning": "buddhist temple",
+    "radical": "寸",
+    "level": "N2",
+    "strokes": 6
+  },
+  {
+    "char": "遠",
+    "meaning": "distant, far",
+    "radical": "辵",
+    "level": "N3",
+    "strokes": 13
+  },
+  {
+    "char": "絵",
+    "meaning": "picture, drawing, painting",
+    "radical": "糸",
+    "level": "N3",
+    "strokes": 12
+  },
+  {
+    "char": "曜",
+    "meaning": "weekday",
+    "radical": "日",
+    "level": "N4",
+    "strokes": 18
+  },
+  {
+    "char": "弱",
+    "meaning": "weak, frail",
+    "radical": "弓",
+    "level": "N2",
+    "strokes": 10
+  },
+  {
+    "char": "肉",
+    "meaning": "meat",
+    "radical": "肉",
+    "level": "N4",
+    "strokes": 6
+  },
+  {
+    "char": "晴",
+    "meaning": "clear up",
+    "radical": "日",
+    "level": "N3",
+    "strokes": 12
+  },
+  {
+    "char": "鳥",
+    "meaning": "bird, chicken",
+    "radical": "鳥",
+    "level": "N4",
+    "strokes": 11
+  },
+  {
+    "char": "冬",
+    "meaning": "winter",
+    "radical": "冫",
+    "level": "N4",
+    "strokes": 5
+  },
+  {
+    "char": "里",
+    "meaning": "ri, village, parent\\",
+    "radical": "里",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "昼",
+    "meaning": "daytime, noon",
+    "radical": "日",
+    "level": "N4",
+    "strokes": 9
+  },
+  {
+    "char": "茶",
+    "meaning": "tea",
+    "radical": "艸",
+    "level": "N4",
+    "strokes": 9
+  },
+  {
+    "char": "雪",
+    "meaning": "snow",
+    "radical": "雨",
+    "level": "N3",
+    "strokes": 11
+  },
+  {
+    "char": "弟",
+    "meaning": "younger brother, faithful service to elders",
+    "radical": "弓",
+    "level": "N4",
+    "strokes": 7
+  },
+  {
+    "char": "毛",
+    "meaning": "fur, hair, feather",
+    "radical": "毛",
+    "level": "N2",
+    "strokes": 4
+  },
+  {
+    "char": "牛",
+    "meaning": "cow",
+    "radical": "牛",
+    "level": "N4",
+    "strokes": 4
+  },
+  {
+    "char": "魚",
+    "meaning": "fish",
+    "radical": "魚",
+    "level": "N4",
+    "strokes": 11
+  },
+  {
+    "char": "兄",
+    "meaning": "elder brother, big brother",
+    "radical": "儿",
+    "level": "N4",
+    "strokes": 5
+  },
+  {
+    "char": "黄",
+    "meaning": "yellow",
+    "radical": "黃",
+    "level": "N2",
+    "strokes": 11
+  },
+  {
+    "char": "雲",
+    "meaning": "cloud",
+    "radical": "雨",
+    "level": "N2",
+    "strokes": 12
+  },
+  {
+    "char": "鳴",
+    "meaning": "chirp, cry, bark",
+    "radical": "鳥",
+    "level": "N3",
+    "strokes": 14
+  },
+  {
+    "char": "矢",
+    "meaning": "dart, arrow",
+    "radical": "矢",
+    "level": "N1",
+    "strokes": 5
+  },
+  {
+    "char": "妹",
+    "meaning": "younger sister",
+    "radical": "女",
+    "level": "N4",
+    "strokes": 8
+  },
+  {
+    "char": "姉",
+    "meaning": "elder sister",
+    "radical": "女",
+    "level": "N4",
+    "strokes": 8
+  },
+  {
+    "char": "才",
+    "meaning": "genius, years old, cubic shaku",
+    "radical": "手",
+    "level": "N3",
+    "strokes": 3
+  },
+  {
+    "char": "麦",
+    "meaning": "barley, wheat",
+    "radical": "麥",
+    "level": "N2",
+    "strokes": 7
+  },
+  {
+    "char": "刀",
+    "meaning": "sword, saber, knife",
+    "radical": "刀",
+    "level": "N1",
+    "strokes": 2
+  },
+  {
+    "char": "弓",
+    "meaning": "bow, bow (archery, violin)",
+    "radical": "弓",
+    "level": "N1",
+    "strokes": 3
+  },
+  {
+    "char": "汽",
+    "meaning": "vapor, steam",
+    "radical": "水",
+    "level": "N1",
+    "strokes": 7
+  },
+  {
+    "char": "事",
+    "meaning": "matter, thing, fact",
+    "radical": "亅",
+    "level": "N4",
+    "strokes": 8
+  },
+  {
+    "char": "発",
+    "meaning": "departure, discharge, publish",
+    "radical": "癶",
+    "level": "N4",
+    "strokes": 9
+  },
+  {
+    "char": "対",
+    "meaning": "vis-a-vis, opposite, even",
+    "radical": "寸",
+    "level": "N3",
+    "strokes": 7
+  },
+  {
+    "char": "部",
+    "meaning": "section, bureau, dept",
+    "radical": "邑",
+    "level": "N3",
+    "strokes": 11
+  },
+  {
+    "char": "者",
+    "meaning": "someone, person",
+    "radical": "老",
+    "level": "N4",
+    "strokes": 8
+  },
+  {
+    "char": "業",
+    "meaning": "business, vocation, arts",
+    "radical": "木",
+    "level": "N4",
+    "strokes": 13
+  },
+  {
+    "char": "相",
+    "meaning": "inter-, mutual, together",
+    "radical": "目",
+    "level": "N3",
+    "strokes": 9
+  },
+  {
+    "char": "定",
+    "meaning": "determine, fix, establish",
+    "radical": "宀",
+    "level": "N3",
+    "strokes": 8
+  },
+  {
+    "char": "員",
+    "meaning": "employee, member, number",
+    "radical": "口",
+    "level": "N4",
+    "strokes": 10
+  },
+  {
+    "char": "開",
+    "meaning": "open, unfold, unseal",
+    "radical": "門",
+    "level": "N4",
+    "strokes": 12
+  },
+  {
+    "char": "問",
+    "meaning": "question, ask, problem",
+    "radical": "口",
+    "level": "N4",
+    "strokes": 11
+  },
+  {
+    "char": "代",
+    "meaning": "substitute, change, convert",
+    "radical": "人",
+    "level": "N4",
+    "strokes": 5
+  },
+  {
+    "char": "実",
+    "meaning": "reality, truth",
+    "radical": "宀",
+    "level": "N3",
+    "strokes": 8
+  },
+  {
+    "char": "決",
+    "meaning": "decide, fix, agree upon",
+    "radical": "水",
+    "level": "N3",
+    "strokes": 7
+  },
+  {
+    "char": "動",
+    "meaning": "move, motion, change",
+    "radical": "力",
+    "level": "N4",
+    "strokes": 11
+  },
+  {
+    "char": "全",
+    "meaning": "whole, entire, all",
+    "radical": "入",
+    "level": "N3",
+    "strokes": 6
+  },
+  {
+    "char": "表",
+    "meaning": "surface, table, chart",
+    "radical": "衣",
+    "level": "N3",
+    "strokes": 8
+  },
+  {
+    "char": "調",
+    "meaning": "tune, tone, meter",
+    "radical": "言",
+    "level": "N3",
+    "strokes": 15
+  },
+  {
+    "char": "化",
+    "meaning": "change, take the form of, influence",
+    "radical": "匕",
+    "level": "N3",
+    "strokes": 4
+  },
+  {
+    "char": "主",
+    "meaning": "lord, chief, master",
+    "radical": "丶",
+    "level": "N4",
+    "strokes": 5
+  },
+  {
+    "char": "題",
+    "meaning": "topic, subject",
+    "radical": "頁",
+    "level": "N4",
+    "strokes": 18
+  },
+  {
+    "char": "意",
+    "meaning": "idea, mind, heart",
+    "radical": "心",
+    "level": "N4",
+    "strokes": 13
+  },
+  {
+    "char": "度",
+    "meaning": "degrees, occurrence, time",
+    "radical": "广",
+    "level": "N4",
+    "strokes": 9
+  },
+  {
+    "char": "期",
+    "meaning": "period, time, date",
+    "radical": "月",
+    "level": "N3",
+    "strokes": 12
+  },
+  {
+    "char": "持",
+    "meaning": "hold, have",
+    "radical": "手",
+    "level": "N4",
+    "strokes": 9
+  },
+  {
+    "char": "取",
+    "meaning": "take, fetch, take up",
+    "radical": "又",
+    "level": "N3",
+    "strokes": 8
+  },
+  {
+    "char": "都",
+    "meaning": "metropolis, capital, all",
+    "radical": "邑",
+    "level": "N3",
+    "strokes": 11
+  }
+]

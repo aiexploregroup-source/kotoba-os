@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" width="1200" height="620">
+<rect width="1200" height="620" fill="#F7F4EE"/>
+<text x="40" y="54" font-family="sans-serif" font-size="30" font-weight="700" fill="#25212B">Sharin Bhaiya — Lip-sync mouth shapes</text>
+<text x="40" y="82" font-family="sans-serif" font-size="16" fill="#6b7785">Draw these on a separate mouth layer. Keep the head, eyes and hair unchanged.</text>
+<g transform="translate(40,120)">
+  <rect width="265" height="215" rx="14" fill="#fff" stroke="#d8dde2" stroke-width="2"/>
+  <circle cx="132" cy="96" r="62" fill="#C88A5A" stroke="#25212B" stroke-width="4"/>
+  <g transform="translate(32,-24)"><path d="M264 316 C282 316 318 316 336 316" fill="none" stroke="#25212B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/></g>
+  <text x="132" y="192" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="700" fill="#1F7A8C">REST</text>
+  </g><g transform="translate(330,120)">
+  <rect width="265" height="215" rx="14" fill="#fff" stroke="#d8dde2" stroke-width="2"/>
+  <circle cx="132" cy="96" r="62" fill="#C88A5A" stroke="#25212B" stroke-width="4"/>
+  <g transform="translate(32,-24)"><path d="M268 300 C284 334 316 334 332 300 C316 314 284 314 268 300 Z" fill="#7A2E32" stroke="#25212B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/></g>
+  <text x="132" y="192" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="700" fill="#1F7A8C">A / E</text>
+  </g><g transform="translate(620,120)">
+  <rect width="265" height="215" rx="14" fill="#fff" stroke="#d8dde2" stroke-width="2"/>
+  <circle cx="132" cy="96" r="62" fill="#C88A5A" stroke="#25212B" stroke-width="4"/>
+  <g transform="translate(32,-24)"><path d="M286 302 C298 296 302 296 314 302 C322 312 318 330 300 332 C282 330 278 312 286 302 Z" fill="#7A2E32" stroke="#25212B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/></g>
+  <text x="132" y="192" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="700" fill="#1F7A8C">O</text>
+  </g><g transform="translate(910,120)">
+  <rect width="265" height="215" rx="14" fill="#fff" stroke="#d8dde2" stroke-width="2"/>
+  <circle cx="132" cy="96" r="62" fill="#C88A5A" stroke="#25212B" stroke-width="4"/>
+  <g transform="translate(32,-24)"><path d="M290 302 C296 296 304 296 310 302 C316 308 314 326 300 328 C286 326 284 308 290 302 Z" fill="#7A2E32" stroke="#25212B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/></g>
+  <text x="132" y="192" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="700" fill="#1F7A8C">U</text>
+  </g><g transform="translate(40,365)">
+  <rect width="265" height="215" rx="14" fill="#fff" stroke="#d8dde2" stroke-width="2"/>
+  <circle cx="132" cy="96" r="62" fill="#C88A5A" stroke="#25212B" stroke-width="4"/>
+  <g transform="translate(32,-24)"><path d="M280 314 L320 314" fill="none" stroke="#25212B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/></g>
+  <text x="132" y="192" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="700" fill="#1F7A8C">M / B / P</text>
+  </g><g transform="translate(330,365)">
+  <rect width="265" height="215" rx="14" fill="#fff" stroke="#d8dde2" stroke-width="2"/>
+  <circle cx="132" cy="96" r="62" fill="#C88A5A" stroke="#25212B" stroke-width="4"/>
+  <g transform="translate(32,-24)"><path d="M282 306 L318 306 M282 306 C292 314 308 314 318 306" fill="none" stroke="#25212B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/></g>
+  <text x="132" y="192" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="700" fill="#1F7A8C">F / V</text>
+  </g><g transform="translate(620,365)">
+  <rect width="265" height="215" rx="14" fill="#fff" stroke="#d8dde2" stroke-width="2"/>
+  <circle cx="132" cy="96" r="62" fill="#C88A5A" stroke="#25212B" stroke-width="4"/>
+  <g transform="translate(32,-24)"><path d="M280 310 C292 302 308 302 320 310 M292 314 C296 326 304 326 308 314" fill="none" stroke="#25212B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/></g>
+  <text x="132" y="192" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="700" fill="#1F7A8C">L</text>
+  </g><g transform="translate(910,365)">
+  <rect width="265" height="215" rx="14" fill="#fff" stroke="#d8dde2" stroke-width="2"/>
+  <circle cx="132" cy="96" r="62" fill="#C88A5A" stroke="#25212B" stroke-width="4"/>
+  <g transform="translate(32,-24)"><path d="M270 304 C288 330 312 330 330 304 C312 318 288 318 270 304 Z" fill="#fff" stroke="#25212B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/></g>
+  <text x="132" y="192" text-anchor="middle" font-family="sans-serif" font-size="17" font-weight="700" fill="#1F7A8C">WIDE SMILE</text>
+  </g>
+</svg>
