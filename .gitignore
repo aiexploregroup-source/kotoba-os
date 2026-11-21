@@ -7,3 +7,9 @@ dist/
 .DS_Store
 Thumbs.db
 *.log
+
+# Non-app workspace material kept locally, not published in the repo
+sharin-bhaiya/
+Japanese-Learning-Resources-Analysis.md
+japanese-learning-resources-2026.csv
+japanese-learning-resources-2026.md
